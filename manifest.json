@@ -1,0 +1,8 @@
+{
+    "name": "Türkçe Yama",
+    "id": "Türkçeyama.dil",
+    "version": "2.0.2",
+    "dependencies": [
+        "Stacklands_NewLanguageLoader"
+    ]
+}

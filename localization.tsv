@@ -1,0 +1,2646 @@
+Term	Turkish	
+card_animal_pen_description	5 hayvan alabilir	
+card_animal_pen_name	Hayvan ağılı	
+card_apple_description	Doktorları uzak tutar	
+card_apple_name	Elma	
+card_apple_tree_description	Elmalı bir ağaç	
+card_apple_tree_name	Elma ağacı	
+card_apple_tree_status	Elma ağacına vurmak	
+card_bear_description	Yumuşak ama tehlikeli	
+card_bear_name	Ayı	
+card_berry_description	Yaban mersini çalısında bulunan basit bir yiyecek	
+card_berry_name	Yaban mersini	
+card_berrybush_description	Lezzetli meyveleri olan bir çalı	
+card_berrybush_name	Yaban mersini çalısı	
+card_berrybush_status	Yaban mersini toplamak	
+card_bone_description	Gerçek: Bir iskelet bunlardan birçoğundan oluşur	
+card_bone_name	Kemik	
+card_brick_description	Güçlü bir yapı malzemesi	
+card_brick_name	Tuğla	
+card_brickyard_description	Taşı hızlıca tuğlaya çevirir	
+card_brickyard_name	Tuğla fabrikası	
+card_campfire_description	Yemek pişirmek için kullanılabilir - sıcak ve samimi gözüküyor	
+card_campfire_name	Kamp ateşi	
+card_carrot_description	En çıtır sebze	
+card_carrot_name	Havuç	
+card_catacombs_description	Gizemli bir nesne içerdiği söyleniyor	
+card_catacombs_name	Yeraltı mezarları (katakom)	
+card_catacombs_status	Katakompları keşfetmek	
+card_chicken_description	Sözde dinozor soyundan geliyor. Bence hiç benzemiyor	
+card_chicken_name	Tavuk	
+card_cooked_meat_description	Orta az pişmiş	
+card_cooked_meat_name	Pişmiş et	
+card_corpse_description	Ölü bir insan	
+card_corpse_name	Ceset	
+card_cow_description	MÖÖÖÖÖ!	
+card_cow_name	İnek	
+card_demon_description	Son Boss	
+card_demon_name	İblis	
+card_dog_description	İnsanlığın gerçek en iyi dostu. Bir insanın yaptığı her şeyi yapabilir, sadece biraz daha yavaş!	
+card_dog_name	Köpek	
+card_egg_description	Çiğ yenmez: Teşekkürler salmonella	
+card_egg_name	Yumurta	
+card_explorer_description	Mekanları çok hızlı keşfeder, ama diğer işlerde biraz daha yavaştır	
+card_explorer_name	Kaşif	
+card_farm_description	Gelişmiş bir yiyecek üretim binası	
+card_farm_name	Çiftlik	
+card_flint_description	Ateş yakmak için kullanılır	
+card_flint_name	Çakmaktaşı	
+card_forest_description	Sevimli ama canavarların da bulunduğu bir yer	
+card_forest_name	Orman	
+card_forest_status	Ormanı keşfetmek	
+card_frittata_description	Lezzetli! Çatalla ye	
+card_frittata_name	Omlet (frittata)	
+card_fruit_salad_description	Klasik bir antik yemek	
+card_fruit_salad_name	Meyve salatası	
+card_garden_description	Basit bir yiyecek üretim binası	
+card_garden_name	Bahçe	
+card_giant_rat_description	Küçük bir farenin büyük versiyonu	
+card_giant_rat_name	Dev fare	
+card_goblet_description	Gizemli bir nesne	
+card_goblet_name	Altın kupa	
+card_goblin_description	Kötü duruşlu bir canavar	
+card_goblin_name	Goblin	
+card_gold_description	İnsanlığın en iyi arkadaşı	
+card_gold_name	Para	
+card_graveyard_description	Normal bir bahçeden çok farklı	
+card_graveyard_name	Mezarlık	
+card_graveyard_status	Mezarlığı keşfetmek	
+card_house_description	Yaşamak için güzel bir yer	
+card_house_name	Ev	
+card_iron_bar_description	Parlak, değerli bir malzeme	
+card_iron_bar_name	Demir külçesi	
+card_iron_deposit_description	Demir cevheri içerir	
+card_iron_deposit_name	Demir yatağı	
+card_iron_deposit_status	Yatağa vurmak	
+card_iron_ore_description	Demir külçesine dönüştürülebilir	
+card_iron_ore_name	Demir cevheri	
+card_key_description	Acaba ne için kullanılıyor...	
+card_key_name	Anahtar	
+card_kid_description	Bir bebek. Büyümesi için bir eve ihtiyacı var.	
+card_kid_name	Bebek	
+card_lumbercamp_description	Sonsuz bir odun kaynağı	
+card_lumbercamp_name	Kereste kampı	
+card_lumbercamp_status	Kampta ağaç kesmek	
+card_map_description	Bir köylüyü kaşife çevirmek için harita kullan	
+card_map_name	Harita	
+card_market_name	Pazar	
+card_militia_name	Milis	
+card_milk_description	İnekten taze çıktı	
+card_milk_name	Süt	
+card_milkshake_description	Meyveli tadında	
+card_milkshake_name	Milkshake (sütlü içecek)	
+card_mountain_description	Ucu sivri bir tepe	
+card_mountain_name	Dağ	
+card_mountain_status	Dağı keşfetmek	
+card_mushroom_description	Yenilebilir mantar	
+card_mushroom_name	Mantar	
+card_old_tome_description	Bazı fikirleri içeren bir kitap	
+card_old_tome_name	Eski kitap	
+card_old_tome_status	Eski kitabı incelemek	
+card_old_village_description	Burada hâlâ birinin yaşadığı söyleniyor	
+card_old_village_name	Eski köy	
+card_old_village_status	Eski köyü keşfetmek	
+card_omelette_description	Pépin gurur duyardı	
+card_omelette_name	Omlet	
+card_onion_description	Çiğ ya da pişmiş yenebilir, nasıl istersen	
+card_onion_name	Soğan	
+card_plains_description	Doğa	
+card_plains_name	Ova	
+card_plains_status	Ova keşfi	
+card_plank_description	Güçlü bir yapı malzemesi	
+card_plank_name	Tahta kalas	
+card_poop_description	Kokuyor gibi görünüyor	
+card_poop_name	Dışkı	
+card_potato_description	Yumuşak ve nişastalı ama önce pişirilmeli	
+card_potato_name	Patates	
+card_quarry_description	Sonsuz taş kaynağı	
+card_quarry_name	Taş ocağı	
+card_quarry_status	Taş ocağında maden çıkarma	
+card_rabbit_description	Tüylü kaka makinesi	
+card_rabbit_name	Tavşan	
+card_rat_description	Dev farenin küçük versiyonu	
+card_rat_name	Fare	
+card_raw_meat_description	Önce pişirilmeli	
+card_raw_meat_name	Çiğ et	
+card_rock_description	Sağlam görünüyor ama vurulabilir	
+card_rock_name	Kaya	
+card_rock_status	Kayaya vurmak	
+card_sawmill_description	Odundan hızlıca tahta kalas yapar	
+card_sawmill_name	Kereste fabrikası	
+card_shed_description	Kart sınırını 4 artırır	
+card_shed_name	Kulübe	
+card_skeleton_description	Bir kemik yığını canavar	
+card_skeleton_name	İskelet	
+card_slime_description	Bir trençkotta 3 küçük slime	
+card_slime_name	Slime	
+card_small_slime_description	İçi ganimet dolu bir balçık	
+card_small_slime_name	Küçük slime	
+card_soil_description	Basit ve yavaş bir yiyecek üretme yolu	
+card_soil_name	Toprak	
+card_spear_description	Ucu sivri bir sopa	
+card_spear_name	Mızrak	
+card_stew_description	Doyurucu bir yemek	
+card_stew_name	Güveç	
+card_stick_description	Bir zamanlar ağacın parçasıydı	
+card_stick_name	Çubuk	
+card_stone_description	Basit bir kaynak	
+card_stone_name	Taş	
+card_stove_description	Kamp ateşinden daha hızlı pişirir	
+card_stove_name	Ocak	
+card_sword_description	Ucu sivri demir külçe	
+card_sword_name	Kılıç	
+card_swordsman_name	Kılıç ustası	
+card_temple_description	Önemli bir ibadet yeri. Gizemli bir nesneye ihtiyacı var.	
+card_temple_name	Tapınak	
+card_travelling_cart_description	Bana 5 altın ver, sana kart vereyim!	
+card_travelling_cart_name	Gezgin kart arabası	
+card_treasure_chest_description	Kilitli	
+card_treasure_chest_name	Hazine sandığı	
+card_tree_description	Ağaç ve çubuktan yapılmış	
+card_tree_name	Ağaç	
+card_tree_status	Ağaca vurmak	
+card_villager_description	Çalışkan bir öncü	
+card_villager_name	Köylü	
+card_warehouse_description	Kart sınırını 14 artırır	
+card_warehouse_name	Depo	
+card_wolf_description	Vahşi görünüyor	
+card_wolf_name	Kurt	
+card_wood_description	Basit bir kaynak	
+card_wood_name	Odun	
+cardtype_food	Yemek	
+cardtype_ideas	Fikirler	
+cardtype_locations	Mekanlar	
+cardtype_mobs	Canavarlar	
+cardtype_resources	Kaynaklar	
+cardtype_structures	Yapılar	
+idea_animalpen_status_0	Hayvan ağılı inşa etmek	
+idea_brick_status_0	Tuğla yapmak	
+idea_brickyard_status_0	Tuğla fabrikası kurmak	
+idea_campfire_status_0	Kamp ateşi başlatmak	
+idea_carving_status_0	Çubuk yapmak	
+idea_chicken_status_0	Tavuk kuluçkada	
+idea_coinchest_status_0	Para sandığı yapmak	
+idea_cookedmeat_status_0	Et pişirmek	
+idea_farm_status_0	Çiftlik inşa etmek	
+idea_frittata_status_0	Omlet pişirmek	
+idea_fruitsalad_status_0	Meyve salatası yapmak	
+idea_garden_status_0	Bahçe kurmak	
+idea_growth_name	Büyüme	
+idea_growth_status_0	Yaban mersini çalısı yetiştirmek	
+idea_growth_status_1	Elma ağacı yetiştirmek	
+idea_growth_status_2	Havuç yetiştirmek	
+idea_growth_status_3	Soğan yetiştirmek	
+idea_growth_status_4	Patates yetiştirmek	
+idea_growth_status_5	Mantar yetiştirmek	
+idea_house_status_0	Ev inşa etmek	
+idea_ironweapons_status_0	Kılıç yapmak	
+idea_ironweapons_status_1	Kılıç ustası eğitmek	
+idea_lumbercamp_status_0	Kereste kampı kurmak	
+idea_market_status_0	Pazar kurmak	
+idea_milkshake_status_0	Milkshake yapmak	
+idea_mine_status_0	Maden inşa etmek	
+idea_offspring_name	Yavru	
+idea_offspring_status_0	Yavru oluşturmak	
+idea_offspring_status_1	Yavru köpek oluşturmak	
+idea_omelette_status_0	Omlet pişirmek	
+idea_planks_status_0	Tahta kalas yapmak	
+idea_quarry_status_0	Taş ocağı kurmak	
+idea_sawmill_status_0	Kereste fabrikası inşa etmek	
+idea_shed_status_0	Kulübe inşa etmek	
+idea_smelting_status_0	Cevher eritme fırını inşa etmek	
+idea_smelting_status_1	Demir eritmek	
+idea_stew_status_0	Güveç pişirmek	
+idea_stove_status_0	Ocak inşa etmek	
+idea_temple_status_0	Tapınak inşa etmek	
+idea_warehouse_status_0	Depo inşa etmek	
+idea_woodenweapons_status_0	Mızrak yapmak	
+idea_woodenweapons_status_1	Milis eğitmek	
+idea_woodenweapons_status_2	Kaşif eğitmek	
+ideagroup_basic	Temel	
+ideagroup_building	Bina	
+ideagroup_cooking	Yemek pişirme	
+ideagroup_military	Askeri	
+ideagroup_resources	Kaynaklar	
+label_an_idea	Bir fikir	
+label_back	Geri	
+label_back_to_menu	Menüye dön	
+label_buy_packs_to_find_idea	Bu fikri bulmak için paket satın al	
+label_cant_be_sold	Satılamaz	
+label_card_not_found	Kart henüz bulunamadı	
+label_cardopedia	Kartopedia	
+label_cards_found	[found]/[total] Kart Bulundu	
+label_cards_infobox	Mevcut maksimum kart sayın [max_card_count]. Şu anda [card_count] [cardicon] var (paralar dahil değil)	
+label_cards_infobox_warning	Çok fazla [cardicon] var. Kartlardan kurtul ya da Ay sonunda kart satman gerekecek!	
+label_clear_save	Kaydı sil	
+label_clear_save_confirm	Kaydını silmek istediğine emin misin?	
+label_coin_infobox_text	Toplam paran	
+label_coin_infobox_title	Paralar	
+label_combat_speed	Saldırı Hızı:	
+label_complete_more_quests	<one>Yeni bir paketin kilidini açmak için 1 görev daha tamamla!<other>Yeni bir paketin kilidini açmak için [remaining] görev daha tamamla!	
+label_complete_more_quests_for_pack	<one>Bu paketin kilidini açmak için 1 görev daha tamamla!<other>Bu paketin kilidini açmak için [remaining] görev daha tamamla!	
+label_completed_main_quest	Ana Görevi tamamladın!	
+label_continue	Devam et	
+label_continue_run	Devam et (Ay [moon])	
+label_credits	Krediler	
+label_damage	Hasar:	
+label_drag_coins_to_buy_pack	Sürükle [cost][goldicon] buraya, bu Paketi satın al	
+label_drop_to_sell	Sürükle, [value] karşılığında sat	
+label_eating	Yiyor...	
+label_end_of_moon	Ay Sonu [moon]	
+label_everyone_fed	Herkes doydu!	
+label_everyone_starved	Herkes açlıktan öldü!	
+label_feed_villagers	Köylüleri besle	
+label_foil	(folyo)	
+label_fullscreen	Tam ekran: [on_off]	
+label_game_options	Oyun Seçenekleri	
+label_game_over	Oyun Bitti	
+label_goblet_brought_to_temple	Kupa Tapınağa getirildi	
+label_hit_chance	Vuruş Şansı:	
+label_idea_fullname	Fikir: [name]	
+label_ideas	Fikirler	
+label_ideas_found	[found]/[total] Fikir Bulundu	
+label_keep_playing	Oynamaya devam et ve tüm Kartları topla!	
+label_languages_title	Diller	
+label_may_contain	İçerebilir:	
+label_moon_length	Ay Uzunluğu	
+label_moon_length_long	Uzun	
+label_moon_length_normal	Normal	
+label_moon_length_short	Kısa	
+label_moon_length_tooltip	Bir Ayın uzunluğu - daha uzun daha kolay	
+label_new	Yeni!	
+label_new_cards_found	<one>1 Yeni Kart Bulundu<other>[count] Yeni Kart Bulundu	
+label_new_pack_unlocked	Yeni Paket Açıldı!	
+label_new_run_confirm	Yeni bir oyuna başlamak istediğine emin misin? Mevcut ilerlemen silinecek!	
+label_nice	Güzel!	
+label_no	Hayır	
+label_off	Kapalı	
+label_okay	Tamam	
+label_on	Açık	
+label_options	Ayarlar	
+label_pack_now_available	[pack] Paketi artık mevcut!	
+label_paused	Duraklatıldı	
+label_peaceful_mode	Barışçıl Mod	
+label_peaceful_mode_tooltip	Barışçıl Modda düşman yok	
+label_quest	Görev	
+label_quest_completed	Görev Tamamlandı!	
+label_quest_not_possible_in_peaceful	Barışçıl Modda mümkün değil	
+label_quests	Görevler	
+label_quests_completed	<one>1 Görev Tamamlandı<other>[count] Görev Tamamlandı	
+label_quit	Çıkış	
+label_resolution	Çözünürlük: [width]x[height]	
+label_resolutions_title	Çözünürlükler	
+label_seconds_format	[seconds]s	
+label_seconds_left_format	[seconds]s kaldı	
+label_select_language	Dil Seç	
+label_sell	Sat	
+label_sell_cards_to_continue	Devam etmek için Kart sat	
+label_sell_x_cards	<one>1 Kart Sat<other>[count] Kart Sat	
+label_sellbox_title	Kart Satışı	
+label_sfx	Ses Efektleri	
+label_stack_of_cards	Kart Yığını	
+label_start_new_moon	Yeni Ay Başlat	
+label_start_new_run	Yeni Oyun Başlat	
+label_start_of_moon	Ayın Başlangıcı [moon]	
+label_start_run	Koşuya Başla	
+label_start_the_ritual	Ayini Başlat	
+label_strange_portal_appeared	Garip bir portal belirdi	
+label_time_to_eat	Yemek zamanı	
+label_timetext	Ay [moon]	
+label_timetext_peaceful	Ay [moon] - Barışçıl Mod	
+label_toggle_panel_title	Paneli Aç/Kapat	
+label_too_many_cards	<one>Çok fazla 1 kartın var!<other>[count] fazla kartın var!	
+label_travelling_cart_appeared	Gezgin Kart Arabası geldi	
+label_uh_oh	Eyvah	
+label_undiscovered_cards	<one>1 keşfedilmemiş Kart<other>[count] keşfedilmemiş Kart	
+label_well_done	Aferin!	
+label_yes	Evet	
+label_you_killed_the_demon	İblisi öldürdün!	
+label_you_reached_moon	Ay [moon] ulaştın	
+pack_a_new_world_text	Yeni Bir Dünya	
+pack_cuisine_text	Meraklı Mutfak	
+pack_explorers_text	Kaşifler	
+pack_farming_text	Biç ve Ekin	
+pack_humble_beginnings_text	Mütevazı Başlangıçlar	
+pack_logic_reason_text	Mantık ve Akıl	
+pack_order_structure_text	Düzen ve Yapı	
+pack_seeking_wisdom_text	Bilgeliğin Peşinde	
+quest_3_villagers_text	3 köylü edin	
+quest_bring_goblet_text	Kupayı Tapınağa götür	
+quest_build_3_houses_text	3 evin olsun	
+quest_build_farm_text	Çiftlik inşa et	
+quest_build_house_text	Ev inşa et	
+quest_build_temple_text	Tapınak inşa et	
+quest_buy_booster_text	Mütevazı Başlangıçlar Paketi satın al	
+quest_buy_from_travelling_cart_text	Gezgin Kart Arabası’ndan bir şey satın al	
+quest_carve_stick_text	Ağaçtan çubuk yap	
+quest_cook_frittata_text	Omlet pişir	
+quest_cook_meat_text	Çiğ et pişir	
+quest_cook_omelette_text	Omlet pişir	
+quest_create_brickyard_text	Tuğla fabrikası kur	
+quest_create_lumbercamp_text	Kereste kampı kur	
+quest_create_offspring_text	Yavru oluştur	
+quest_create_quarry_text	Taş ocağı inşa et	
+quest_create_shed_text	Kulübe inşa et	
+quest_explore_forest_text	Ormanı keşfet	
+quest_explore_mountain_text	Dağı keşfet	
+quest_find_catacombs_text	Katakombları bul	
+quest_find_goblet_text	Gizemli bir nesne bul	
+quest_find_graveyard_text	Mezarlık bul	
+quest_get_a_dog_text	Köpek edin	
+quest_get_iron_bar_text	Demir külçesi edin	
+quest_have_gold_text	[count] Coin’in olsun	
+quest_have_10_ideas_text	10 fikir edin	
+quest_have_10_stone_text	10 taşın olsun	
+quest_have_10_wood_text	10 odunun olsun	
+quest_have_food_text	[count] yemek edin	
+quest_have_5_ideas_text	5 fikir edin	
+quest_kill_a_rat_text	Bir fare öldür	
+quest_kill_a_skeleton_text	Bir iskelet öldür	
+quest_kill_demon_text	İblisi öldür	
+quest_open_starter_pack_text	Booster Paketi aç	
+quest_open_treasure_chest_text	Hazine Sandığı aç	
+quest_pick_berrybush_text	Köylüyü Yaban mersini çalısının üstüne sürükle	
+quest_reach_month_text	Ay [count] ulaş	
+quest_second_villager_text	İkinci bir köylü edin	
+quest_sell_at_market_text	Pazarda Kart sat	
+quest_sell_card_text	Kart sat	
+quest_start_campfire_text	Kamp ateşi başlat	
+quest_train_explorer_text	Kaşif eğit	
+quest_train_militia_text	Milis eğit	
+quest_unlock_all_packs_text	Tüm Paketlerin kilidini aç	
+new_creating_graveyard	Mezarlık oluşturmak	
+new_selling_card	[selling] satılıyor	
+new_portal_shaking	Portal titriyor	
+new_growing_up	Büyümek	
+card_aquarium_description	5 balık alabilir	
+card_aquarium_name	Akvaryum	
+card_banana_description	Herkesin favori sarı meyvesi	
+card_banana_name	Muz	
+card_banana_tree_description	Muzdan yapılmış	
+card_banana_tree_name	Muz ağacı	
+card_banana_tree_status	Muz ağacına vurmak	
+card_boat_status	Denize açılmak	
+card_bottle_of_rum_description	Dikkat: Köylüleri sarhoş eder!	
+card_bottle_of_rum_name	Rom şişesi	
+card_bottle_of_water_description	Şeffaf sıvı dolu şeffaf şişe	
+card_bottle_of_water_name	Su şişesi	
+card_captain_description	Denizcilikte uzman, daha hızlı açılır	
+card_captain_name	Kaptan	
+card_cathedral_description	Önemli bir ibadet yeri. Bir relik ister.	
+card_cathedral_name	Katedral	
+card_cave_description	Korsanlar hazine haritalarını burada saklardı...	
+card_cave_name	Mağara	
+card_cave_status	Mağarayı keşfetmek	
+card_ceviche_description	Ekşi balık, sevmeyen yok!	
+card_ceviche_name	Ceviche	
+card_charcoal_description	Yılan zehiri için panzehir görevi görür	
+card_charcoal_name	Kömür	
+card_chili_pepper_description	Acılı ve güzel	
+card_chili_pepper_name	Acı biber	
+card_coconut_description	Bir meyve, kuruyemiş değil!	
+card_coconut_name	Hindistan cevizi	
+card_coconut_piece_description	Tropikal!	
+card_coconut_piece_name	Hindistan cevizi dilimi	
+card_coconut_tree_description	Hindistan cevizinden yapılmış	
+card_coconut_tree_name	Hindistan cevizi ağacı	
+card_coconut_tree_status	Hindistan cevizi ağacına vurmak	
+card_cod_name	Morina balığı	
+card_coin_chest_description	Paraları tutabilen sandık	
+card_coin_chest_name	Para sandığı	
+card_composter_description	5 yemeği toprağa çevirir	
+card_composter_name	Kompost kutusu	
+card_cooked_crab_meat_description	Çok havalı	
+card_cooked_crab_meat_name	Pişmiş yengeç	
+card_cooked_fish_description	Izgara izinin tadı var	
+card_cooked_fish_name	Izgara balık	
+card_cotton_description	Doğanın yünü	
+card_cotton_name	Pamuk	
+card_cotton_plant_description	Pamuk için toplanabilir	
+card_cotton_plant_name	Pamuk bitkisi	
+card_cotton_plant_status	Pamuk bitkisi toplama	
+card_crab_description	Neden her şey yengece evriliyor?	
+card_crab_name	Yengeç	
+card_demon_lord_description	Sonun da sonu Boss!	
+card_demon_lord_name	İblis Lordu	
+card_distillery_description	Alkol yapmak için kullanılır	
+card_distillery_name	Damıtımevi	
+card_driftwood_description	Karaya vurmuş odun yığını	
+card_driftwood_name	Sürüklenen odun	
+card_driftwood_status	Sürüklenen odunu karıştırmak	
+card_eel_description	Elektrikli deniz yılanı	
+card_eel_name	Yılan balığı	
+card_empty_bottle_description	Camdan yapılmış. Yeniden doldurulabilir!	
+card_empty_bottle_name	Boş şişe	
+card_fabric_description	Lifler. Birlikte güçlü.	
+card_fabric_name	Kumaş	
+card_fish_trap_description	Yem olarak bir çeşit yemek ister	
+card_fish_trap_name	Balık tuzağı	
+card_fish_trap_status	Balık yakalama	
+card_fisher_description	Balık tutmada uzman. Balıklar ondan korkar	
+card_fisher_name	Balıkçı	
+card_fishing_rod_description	Bir köylüyü balıkçı yapmak için ona ver	
+card_fishing_rod_name	Olta	
+card_fishing_spot_description	Balık dolu su birikintisi	
+card_fishing_spot_name	Balık avlama alanı	
+card_fishing_spot_status	Balık avlama	
+card_friendly_pirate_description	Tarafına katıldı	
+card_friendly_pirate_name	Dost korsan	
+card_frigate_description	25 Kart taşıyabilir. Yelken açmak için bir köylü ister. Bina taşıyamaz	
+card_frigate_name	Fırkateyn	
+card_glass_description	Şeffaf bir kaynak	
+card_glass_name	Cam	
+card_gold_bar_description	Çok parlak, çok değerli bir malzeme	
+card_gold_bar_name	Altın külçesi	
+card_gold_deposit_description	Altın cevheri içerir	
+card_gold_deposit_name	Altın yatağı	
+card_gold_deposit_status	Altın yatağına vurmak	
+card_gold_mine_description	Sonsuz altın cevheri kaynağı	
+card_gold_mine_name	Altın madeni	
+card_gold_mine_status	Altın madeninde çalışmak	
+card_gold_ore_description	Altın külçeye dönüştürülebilir	
+card_gold_ore_name	Altın cevheri	
+card_goop_description	Çamur, balçık, pislik: bozulmuş yiyecek	
+card_goop_name	Yapışkan atık	
+card_greenhouse_description	Yüksek teknolojili bir yiyecek üretim binası. Otomatik olarak ekin diker.	
+card_greenhouse_name	Sera	
+card_island_relic_description	Katedrale götür	
+card_island_relic_name	Ada kalıntısı	
+card_jungle_description	Kitaplarıyla meşhur bir orman	
+card_jungle_name	Orman (jungle)	
+card_jungle_status	Ormanı (jungle) keşfetmek	
+card_kraken_description	Relikini aldığın için sinirli	
+card_kraken_name	Kraken	
+card_lime_description	Yuvarlak ve ekşi	
+card_lime_name	Lime (meyve)	
+card_mackerel_name	Uskumru	
+card_mess_hall_description	Köylüler, Yemek Salonu’ndaki yemekleri öncelikli yer	
+card_mess_hall_name	Yemek Salonu	
+card_message_in_a_bottle_description	Bir fikir var gibi duruyor	
+card_message_in_a_bottle_name	Şişede mesaj	
+card_message_in_a_bottle_status	Şişe açmak	
+card_mine_description	Sonsuz demir cevheri kaynağı	
+card_mine_name	Demir madeni	
+card_mine_status	Demir madeninde çalışmak	
+card_momma_crab_description	O yengeçleri öldürmemeliydin belki?	
+card_momma_crab_name	Anne Yengeç	
+card_monkey_description	Bir muz istiyor	
+card_monkey_name	Maymun	
+card_parrot_description	İnsan gibi konuşur, kuş gibi uçar. Korsanları mutlu eder	
+card_parrot_name	Papağan	
+card_pirate_boat_description	Korsan dolu bir tekne	
+card_pirate_boat_name	Korsan teknesi	
+card_pirate_boat_status	[count] Coin verirseniz sizi rahat bırakırız...	
+card_pirate_description	İri ve kızgın bir denizci	
+card_pirate_name	Korsan	
+card_raw_crab_meat_description	Yenmeden önce pişirilmeli	
+card_raw_crab_meat_name	Çiğ yengeç eti	
+card_raw_fish_description	Kaygan	
+card_raw_fish_name	Çiğ balık	
+card_rope_description	Uzun ve lifli	
+card_rope_name	Halat	
+card_rowboat_description	1 kart taşıyabilir. Yelken açmak için bir köylüye ihtiyaç duyar. Bina taşıyamaz	
+card_rowboat_name	Küçük tekne (Rowboat)	
+card_sacred_chest_description	Açılması için Kutsal Anahtar gerekir	
+card_sacred_chest_name	Kutsal Sandık	
+card_sacred_key_description	Cam ve Altınla dövülmüş. Kutsal Sandık’ı açmak için kullanılır.	
+card_sacred_key_name	Kutsal Anahtar	
+card_sail_description	Tekne yapmak için kullanılır	
+card_sail_name	Yelken	
+card_sand_description	Güzel bir plaj için ana malzeme	
+card_sand_name	Kum	
+card_sand_quarry_description	Sonsuz kum kaynağı	
+card_sand_quarry_name	Kum ocağı	
+card_sand_quarry_status	Kum ocağında madencilik	
+card_sandstone_description	Taşa alternatif. Taş gereken her şeyde kullanılabilir.	
+card_sandstone_name	Kumtaşı	
+card_seafood_stew_description	Lezzetli ada güveci	
+card_seafood_stew_name	Deniz mahsullü güveç	
+card_seagull_description	Sinirli bir kuş	
+card_seagull_name	Martı	
+card_seaweed_description	Denizin salatası	
+card_seaweed_name	Deniz yosunu	
+card_shark_description	Büyük, sinirli bir balık türü	
+card_shark_name	Köpekbalığı	
+card_sheep_description	Yumuşacık!	
+card_sheep_name	Koyun	
+card_shell_chest_description	Kabuk tutabilen sandık	
+card_shell_chest_name	Kabuk Sandığı	
+card_shell_description	Adanın ana para birimi	
+card_shell_name	Kabuk	
+card_sloop_description	10 kart taşıyabilir. Yelken açmak için bir köylüye ihtiyaç duyar. Bina taşıyamaz	
+card_sloop_name	Küçük yelkenli (Sloop)	
+card_smelter_description	Çeşitli materyalleri eriterek işler	
+card_smelter_name	Eritme fırını (Smelter)	
+card_smelter_status	Eritme	
+card_snake_description	Sürüngen, zehirli bir canlı	
+card_snake_name	Yılan	
+card_sugar_cane_description	Şeker tadında ot	
+card_sugar_cane_name	Şeker kamışı	
+card_sugar_cane_status	Şeker kamışı toplama	
+card_sugar_description	Çok tatlı!	
+card_sugar_name	Şeker	
+card_sushi_description	Lezzetli bir atıştırmalık	
+card_sushi_name	Suşi	
+card_tamago_sushi_description	Yumurtalı suşi	
+card_tamago_sushi_name	Tamago suşi	
+card_tentacle_description	Kıpır kıpır	
+card_tentacle_name	Dokunaç	
+card_tiger_description	Çok güçlü bir kedi	
+card_tiger_name	Kaplan	
+card_trained_monkey_description	Ev işlerinde yardımcı olur. Ay sonunda tekrar normal maymuna dönüşür.	
+card_trained_monkey_name	Eğitilmiş maymun	
+card_treasure_map_description	X işaretli nokta. Bir köylüyle aranmalı	
+card_treasure_map_name	Hazine haritası	
+card_treasure_map_status	Hazine arama	
+card_tuna_name	Orkinos	
+card_wool_description	Yumuşak bir kaynak	
+card_wool_name	Yün	
+cardtype_fish	Balık	
+cardtype_rumors	Söylentiler	
+empty		
+idea_aquarium_status_0	Akvaryum inşa etmek	
+idea_befriending_pirate_status	Korsanla arkadaş olmak	
+idea_bottle_status_0	Şişe yapmak	
+idea_cathedral_status_0	Katedral inşa etmek	
+idea_ceviche_status	Ceviche yapmak	
+idea_charcoal_status	Kömür yapmak	
+idea_charcoal_status_0	Kömür yapmak	
+idea_compass_status	Pusula yapmak	
+idea_composter_status	Gübre kutusu yapmak	
+idea_composting_status	Gübreleniyor	
+idea_cooked_crab_meat_status_0	Yengeç eti pişirmek	
+idea_cooked_fish_status_0	Balık ızgara yapmak	
+idea_cracking_coconut_status	Hindistan cevizi kırmak	
+idea_distillery_status	Damıtımevi inşa etmek	
+idea_eating_charcoal	Zehri temizlemek	
+idea_fabric_status	Kumaş yapmak	
+idea_filling_bottle_of_water	Şişe doldurmak	
+idea_fish_trap_status	Balık tuzağı kurmak	
+idea_fishing_rod_status	Olta yapmak	
+idea_frigate_status0	Fırkateyn inşa etmek	
+idea_greenhouse_status_0	Sera inşa etmek	
+idea_growth_name_status_10	Acı biber yetiştirmek	
+idea_growth_name_status_9	Lime (meyve) yetiştirmek	
+idea_growth_status_6	Muz ağacı yetiştirmek	
+idea_growth_status_7	Hindistan cevizi ağacı yetiştirmek	
+idea_growth_status_8	Pamuk bitkisi yetiştirmek	
+idea_mess_hall_status	Yemek Salonu inşa etmek	
+idea_rope_status	Halat yapmak	
+idea_rowboat_status0	Küçük tekne inşa etmek	
+idea_rum_status	Rom yapmak	
+idea_sacred_key_status0	Kutsal Anahtar dövmek	
+idea_sail_status0	Yelken yapmak	
+idea_sand_quarry_status	Kum ocağı inşa etmek	
+idea_sandstone_status	Kumtaşı yapmak	
+idea_seafood_stew_status_0	Deniz mahsullü güveç yapmak	
+idea_shell_chest_status_0	Kabuk Sandığı yapmak	
+idea_sloop_status0	Küçük yelkenli inşa etmek	
+idea_smelting_glass_status	Cam yapmak	
+idea_smelting_status_2	Altın eritmek	
+idea_smelting_status_3	Para yapmak	
+idea_sushi_status	Suşi yapmak	
+idea_tamago_sushi_status	Tamago suşi yapmak	
+idea_training_captain_status	Kaptan eğitmek	
+idea_training_fisher_status	Balıkçı eğitmek	
+idea_training_monkey_status	Maymun eğitmek	
+ideagroup_fishing	Balık tutmak	
+ideagroup_important	Önemli	
+ideagroup_island	Ada	
+ideagroup_sailing	Denizcilik	
+label_a_rumor	Bir Söylenti	
+label_awakened_something	Bir şeyi uyandırdın..	
+label_awakened_the_kraken	Bu bir Kraken!	
+label_card_cap	Kart limiti	
+label_complete_more_island_quests_for_pack	<one>Bu Paketin kilidini açmak için 1 Ada Görevi daha tamamla!<other>Bu Paketin kilidini açmak için [remaining] Ada Görevi daha tamamla!	
+label_everyone_on_island_dead	Adadaki herkes öldü	
+label_everyone_on_island_dead_text	Burada kartların kalacak, döndüğünde bulabilirsin	
+label_island_intro_1	Adaya hoş geldin	
+label_island_intro_2	Adaydayken Anakara ile ilgilenmek zorunda değilsin	
+label_island_intro_3	Her zaman Küçük Tekneyi kullanarak Anakara’ya dönebilirsin	
+label_island_intro_4	Küçük Tekne sadece tek kart taşıyabilir – diğer tekneler daha fazla kart taşıyabilir	
+label_island_intro_5	Tüm köylülerin ölürse Anakaraya geri dönersin	
+label_island_intro_6	Bol şans!	
+label_island_intro_pack_text	İblisi yenince bir paket kazandın	
+label_island_intro_pack_title	Güzel!	
+label_island_intro_title	Ada!	
+label_join_our_discord	Discord’umuza katıl	
+label_main_quests	Ana Görevler	
+label_momma_crab_appeared_text	Sinirli görünüyor..	
+label_momma_crab_appeared_title	Anne Yengeç Geldi	
+label_no_ideas_yet	Henüz hiç Fikir bulamadın	
+label_one_villager_needs_to_stay	En az bir köylü Anakara’da kalmalı	
+label_pirate_boat_appeared	Bir korsan teknesi ortaya çıktı	
+label_quests_complete_more_to_see	Daha fazla görev tamamla, sıradakileri görebilirsin	
+label_return_to_mainland	Anakara’ya dön	
+label_rumor_full	Söylenti: [name]	
+label_sailing_off_title	Denize açıl	
+label_save_game	<b>[save_index] Kaydı</b> - %[percentage] tamamlandı - son oynanma [date]	
+label_save_games	Oyunu Kaydet	
+label_select_save	Kayıt Seç	
+label_side_quests	Yan Görevler	
+label_start_new_save	<b>[save_index] Kaydı</b> - yeni kayıt başlat	
+label_status_effect	Durum: [status]	
+label_time	Zaman	
+label_you_killed_the_demon_lord	İblis Lordu’nu öldürdün	
+pack_island_advanced_text	Gelişmiş Takımadalar	
+pack_island_cooking_text	Izgara ve Demleme	
+pack_island_ideas1_text	Fikirler Adası	
+pack_island_ideas2_text	Ada İçgörüleri	
+pack_island_intro_text	Ada?	
+pack_island_locations_text	Yerleşke Kaşifleri	
+pack_island1_text	Taze Ada	
+pack_island2_text	Kıyıda	
+quest_befriend_a_pirate_text	Bir Korsanla Arkadaş Ol	
+quest_bribe_pirate_boat_text	Korsan Teknesine Rüşvet Ver	
+quest_build_cathedral_text	Anakarada Katedral inşa et	
+quest_build_composter_text	Kompost kutusu inşa et	
+quest_build_fish_trap_text	Balık tuzağı kur	
+quest_build_greenhouse_text	Sera inşa et	
+quest_build_mess_hall_text	Yemek Salonu inşa et	
+quest_build_rowboat_text	Küçük Tekne inşa et	
+quest_build_sloop_text	Küçük Yelkenli inşa et	
+quest_catch_a_fish_text	Balık yakala	
+quest_cook_crab_meat_text	Yengeç eti pişir	
+quest_crack_coconut_text	Hindistan cevizi kır	
+quest_cure_poison_text	Zehirli köylüyü tedavi et	
+quest_drunk_villager_text	Köylüyü sarhoş et	
+quest_find_treasure_map_text	Hazine haritası bul	
+quest_find_treasure_text	Hazine bul	
+quest_forge_sacred_key_text	Kutsal Anahtar döv	
+quest_get_2_bananas_text	2 muz bul	
+quest_have_shells_text	[count] Kabuk edin	
+quest_island_relic_to_cathedral_text	Ada Relikini Katedrale götür	
+quest_kill_demon_lord_text	İblis Lordu’nu öldür	
+quest_kill_kraken_text	Kraken’i öldür	
+quest_kill_momma_crab_text	Anne Yengeç’i öldür	
+quest_make_ceviche_text	Ceviche yap	
+quest_make_fish_trap_text	Balık tuzağı yap	
+quest_make_glass_text	Cam yap	
+quest_make_gold_bar_text	Altın külçesi yap	
+quest_make_rope_text	Halat yap	
+quest_make_rum_text	Rom şişesi yap	
+quest_make_sail_text	Yelken yap	
+quest_make_sandstone_text	Kumtaşı yap	
+quest_make_seafood_stew_text	Deniz mahsullü güveç yap	
+quest_make_sushi_text	Suşi yap	
+quest_open_message_in_a_bottle_text	Şişede mesaj aç	
+quest_open_sacred_chest_text	Kutsal Sandığı aç	
+quest_poisoned_villager_text	Zehirli köylü sahibi ol	
+quest_punch_driftwood_text	Sürüklenen odundan birine vur	
+quest_train_a_fisher_text	Balıkçı eğit	
+quest_train_captain_text	Kaptan eğit	
+quest_unlock_all_island_packs_text	Tüm Ada Paketlerinin kilidini aç	
+questgroup_building	İnşaat	
+questgroup_cooking	Herkese açık sofra (Potluck)	
+questgroup_exploration	Keşif	
+questgroup_fighting	Güç & Yetenek	
+questgroup_island	Ada Hedefleri	
+questgroup_island_beginnings	Issız	
+questgroup_island_combat	Yerleşke Karşılaşmaları	
+questgroup_island_cooking	Ada Yemeği	
+questgroup_island_mainquest	Adanın Gizemi	
+questgroup_island_misc	Ada Diğer	
+questgroup_mainquest	Büyük Plan	
+questgroup_other	Diğer	
+questgroup_resources	Yollar ve Araçlar	
+questgroup_starter	Hoş geldin	
+questgroup_survival	Uzun ömür	
+rumor_eel_bait_description	Balık tuzağı kullanırken, Muz ile Yılanbalığı yakalanabilir	
+rumor_eel_bait_name	Yılanbalığı Yemi	
+rumor_island_description	Altın ve Cam adada bulunabilir	
+rumor_island_name	Ada	
+rumor_shark_bait_description	Balık tuzağı kullanırken, Çiğ Et ile Köpekbalığı yakalanabilir	
+rumor_shark_bait_name	Köpekbalığı Yemi	
+rumor_tuna_bait_description	Balık tuzağı kullanırken, Lime ile Orkinos yakalanabilir	
+rumor_tuna_bait_name	Orkinos Yemi	
+statuseffect_drunk_description	Çalışma hızını azaltır, vurma şansını azaltır, maksimum hasarı artırır	
+statuseffect_drunk_lore	Sorumlu tüketin	
+statuseffect_drunk_name	Sarhoş	
+statuseffect_poison_description	Her 60 saniyede hasar verir	
+statuseffect_poison_lore	Damarlarında tehlikeli zehir var, hemen panzehire ihtiyaçları var	
+statuseffect_poison_name	Zehirlenmiş	
+statuseffect_spoiling_description	1 Ay sonra Yapışkan’a dönüşecek	
+statuseffect_spoiling_lore	Biraz fazla güneşte kalmış	
+statuseffect_spoiling_name	Bozuluyor	
+statuseffect_stunned_description	5 saniye boyunca saldırı yapamaz	
+statuseffect_stunned_lore	O darbe gerçekten canını yaktı..	
+statuseffect_stunned_name	Sersemlemiş	
+statuseffect_wellfed_description	Çalışma hızını artırır	
+statuseffect_wellfed_lore	Sağlam yemek onları iyi etti	
+statuseffect_wellfed_name	Doymuş	
+label_sailing_off_full	Denize açıl	
+language_dutch	Hollandaca	
+language_french	Fransızca	
+language_german	Almanca	
+language_italian	İtalyanca	
+language_polish	Lehçe	
+language_spanish	İspanyolca	
+credits_aran	Kavram, programlama, tasarım	
+credits_lisa	Oyun sanatı	
+credits_sokpop	Sokpop tarafından yapılmıştır	
+credits_local_heroes	Yerelleştirme	
+credits_special_thanks	Özel Teşekkürler	
+label_relic_brought_to_cathedral	Relik Katedrale getirildi	
+label_controls	Kontroller	
+control_time_1	1x Hız	
+control_time_2	5x Hız	
+control_time_3	0x Hız	
+control_time_pause	Zamanı Durdur	
+control_panel_collapse	Yan Paneli Aç/Kapat	
+control_zoom	Yakınlaştır	
+control_sell	Kart Sat	
+control_time_toggle	Zamanı Aç/Kapat	
+control_pause	Oyunu Durdur	
+control_grab	Kap	
+control_activate_UI	Arayüzü Etkinleştir	
+control_move	Taşı	
+control_snap_move	Hızlı Taşı	
+control_snap_cards	Kartları Izgaraya Yapıştır	
+label_keyboard_mouse	Klavye & Fare	
+label_controller	Oyun Kumandası	
+label_waiting_for_input	Giriş bekleniyor	
+label_sellbox_description	Kartları buraya sürükleyerek satın. Ayrıca [action_sell] ile de satabilirsin.	
+label_toggle_panel_text	Bu butona tıkla ya da [action_panel_collapse] ile Görevler ve Fikirler Sekmesini aç/kapat	
+label_auto_pause_controller	Kart sürüklerken otomatik olarak zamanı duraklat (kumanda):	
+label_auto_pause_keyboardmouse	Kart sürüklerken otomatik olarak zamanı duraklat (klavye):	
+label_binding	[control] atama	
+label_accessibility	Erişilebilirlik	
+language_portuguese	Brezilya Portekizcesi	
+language_chinese	Çince	
+language_japanese	Japonca	
+language_korean	Korece	
+label_progress_stored	İlerleme kaydedilecek	
+label_go_to_island_prompt	Adaya gitmek istediğine emin misin? Önce mevcut Ay sona erer ve Köylülerini doyurursun	
+label_return_to_mainland_prompt	Anakara’ya dönmek istediğine emin misin? Önce mevcut Ay sona erer ve Köylülerini doyurursun	
+label_not_enough_food_before_sailing	Yelken açmadan önce köylüler için yeterli yemeğin olmalı	
+idea_growth_status_11	Deniz yosunu yetiştirmek	
+card_market_description	Kartları satmak için kullanılır, normalden daha fazla verir	
+attackdamage_veryweak	Çok Zayıf	
+attackdamage_weak	Zayıf	
+attackdamage_normal	Normal	
+attackdamage_strong	Güçlü	
+attackdamage_verystrong	Çok Güçlü	
+attackdamage_extremelystrong	Aşırı Güçlü	
+attackspeed_veryslow	Çok Yavaş	
+attackspeed_slow	Yavaş	
+attackspeed_normal	Normal	
+attackspeed_fast	Hızlı	
+attackspeed_veryfast	Çok Hızlı	
+attackspeed_extremelyfast	Aşırı Hızlı	
+card_amulet_of_forest_description	Doğanın iyileştirici gücünü hissediyorsun	
+card_amulet_of_forest_name	Orman Tılsımı	
+card_amulet_of_mountain_description	Sana güç veriyor	
+card_amulet_of_mountain_name	Dağ Tılsımı	
+card_archer_description	Çok yaklaşmaya korkuyor	
+card_archer_name	Okçu	
+card_axe_description	Hem odun hem de canavar kesmek için	
+card_axe_name	Balta	
+card_bear_claw_description	Ucuz Wolverine çakması	
+card_bear_claw_name	Ayı Pençesi	
+card_blowpipe_description	Elinden gelenin en iyisini üfle	
+card_blowpipe_name	Üfleme borusu	
+card_blunderbuss_description	Dikkat et! Kendi yüzünde patlayabilir	
+card_blunderbuss_name	Tüfek (Blunderbuss)	
+card_bone_spear_description	Normal mızrağın korkutucu hali	
+card_bone_spear_name	Kemik Mızrak	
+card_bone_staff_description	Özel yetenekli bir kemik	
+card_bone_staff_name	Kemik Asa	
+card_boomerang_description	Hep sana geri döner	
+card_boomerang_name	Bumerang	
+card_bow_description	Robin Hood gibi hissettirir	
+card_bow_name	Yay	
+card_broken_bottle_description	Bu iş için doğranmış	
+card_broken_bottle_name	Kırık Şişe	
+card_builder_description	Bina yapmada çok daha hızlı	
+card_builder_name	Usta inşaatçı	
+card_bunny_hat_description	Çok tatlı!	
+card_bunny_hat_name	Tavşan Şapkası	
+card_chainmail_armor_description	Ortaçağ klasiği	
+card_chainmail_armor_name	Zincir zırh	
+card_club_description	Beyzbol oynamak için değil	
+card_club_name	Sopa (Club)	
+card_crab_scale_armor_name	Yengeç Zırhı	
+card_crossbow_description	Oklar için tabanca	
+card_crossbow_name	Arbalet	
+card_dark_amulet_description	Karanlık gücü seni güçlendirir	
+card_dark_amulet_name	Karanlık Tılsım	
+card_dark_elf_description	Elf’in emo hali	
+card_dark_elf_name	Kara Elf	
+card_demon_sword_description	İblisin kullandığı harika bir bıçak	
+card_demon_sword_name	İblis Kılıcı	
+card_elf_archer_description	Elfler en iyi okçulardır	
+card_elf_archer_name	Elf Okçu	
+card_elf_description	Artık Noel Baba için çalışmıyor	
+card_elf_name	Elf	
+card_enchanted_shroom_description	Büyülü bir mantar	
+card_enchanted_shroom_name	Büyülü mantar	
+card_ent_description	Konuşan ve yürüyen bir ağaç	
+card_ent_name	Ent	
+card_feral_cat_description	Kuduz mu? Muhtemelen!	
+card_feral_cat_name	Yaban Kedisi	
+card_fire_cloak_description	Alevli	
+card_fire_cloak_name	Ateş Pelerini	
+card_frog_helmet_description	Kurbağa gücü kazandırır	
+card_frog_helmet_name	Kurbağa Kaskı	
+card_frog_man_description	Kurbağalardan oluşan bir adam	
+card_frog_man_name	Kurbağa Adam	
+card_ghost_description	Sadece düşük kaliteli fotoğraflarda çıkar	
+card_ghost_name	Hayalet	
+card_giant_snail_description	Fransızlar buna bayılırdı	
+card_giant_snail_name	Dev Salyangoz	
+card_goblin_archer_description	Normal goblinden daha yetenekli	
+card_goblin_archer_name	Goblin Okçu	
+card_goblin_hat_description	Goblin modası geçmiş	
+card_goblin_hat_name	Goblin Şapkası	
+card_goblin_shaman_description	Diğer goblinleri mutlu eder	
+card_goblin_shaman_name	Goblin Şaman	
+card_gold_chestplate_description	Etkinlik için fazla şık	
+card_gold_chestplate_name	Altın Göğüslük	
+card_hammer_description	Yavaş ve künt ama güçlü	
+card_hammer_name	Çekiç	
+card_helmet_description	Kafanın üstüne takılır. Bisiklet için harika	
+card_helmet_name	Kask	
+card_horned_helmet_description	Güçlü kafa atları için yararlı	
+card_horned_helmet_name	Boynuzlu Kask	
+card_iron_shield_description	Güçlü darbelerde iyi savunma	
+card_iron_shield_name	Demir Kalkan	
+card_kraken_tooth_axe_description	Diş perisine bırakılan, sen aldın	
+card_kraken_tooth_axe_name	Kraken Dişi Balta	
+card_leather_tunic_description	En iyi deriden yapılmış zırh	
+card_leather_tunic_name	Deri Ceket	
+card_lumberjack_description	Odun kesmede çok daha hızlı	
+card_lumberjack_name	Oduncu	
+card_mage_description	Mezun olmuş Büyücü	
+card_mage_name	Büyücü	
+card_magic_blade_description	Parlayan sıradan bir kılıç	
+card_magic_blade_name	Büyülü Kılıç	
+card_magic_broom_description	Bir yaşlı kadından aldın	
+card_magic_broom_name	Büyülü Süpürge	
+card_magic_dust_description	Sim gibi parlıyor	
+card_magic_dust_name	Büyülü Toz	
+card_magic_ring_description	Parmağına takınca sihir verir	
+card_magic_ring_name	Büyülü Yüzük	
+card_magic_staff_description	Uzun, büyülü bir değnek	
+card_magic_staff_name	Büyülü Asa	
+card_magic_tome_description	Büyü kitabı	
+card_magic_tome_name	Büyülü Kitap	
+card_magic_wand_description	Basit bir büyülü silah	
+card_magic_wand_name	Büyülü Değnek	
+card_merman_description	Yarı adam, yarı deniz adamı	
+card_merman_name	Denizadamı	
+card_mimic_description	Az kalsın beni yakalıyordu	
+card_mimic_name	Taklitçi	
+card_miner_description	Taş, altın ve demir toplamada çok daha hızlı	
+card_miner_name	Madenci	
+card_morning_star_description	Çivili sopa	
+card_morning_star_name	Topuz (Morning Star)	
+card_mosquito_description	Kendinden nefret ediyor	
+card_mosquito_name	Sivrisinek	
+card_ninja_description	Sessiz ve ölümcül	
+card_ninja_name	Ninja	
+card_ogre_description	Büyük ve iri	
+card_ogre_name	Ogre	
+card_orc_wizard_description	Kaba ve yeşil	
+card_orc_wizard_name	Ork Büyücü	
+card_pickaxe_description	İki ucu sivri sopa	
+card_pickaxe_name	Kazma	
+card_pirate_hat_description	Kostüm partileri için kullanışlı	
+card_pirate_hat_name	Korsan Şapkası	
+card_pirate_sword_description	Korsanlar için tasarlanmış	
+card_pirate_sword_name	Korsan Kılıcı	
+card_quiver_description	Daha verimli yapar	
+card_quiver_name	Ok kılıfı	
+card_rat_crown_description	Farelerin kralı ol	
+card_rat_crown_name	Fare Tacı	
+card_skull_helmet_description	Biraz tuhaf	
+card_skull_helmet_name	Kafatası Kaskı	
+card_slingshot_description	Düşmanlara çok da isabetli olmayan taş atar	
+card_slingshot_name	Sapan	
+card_smithy_description	Daha iyi silahlar için kullanılan bina	
+card_smithy_name	Demirci	
+card_spiked_plank_description	Zorlu inşaatçılar için	
+card_spiked_plank_name	Çivili Tahta	
+card_stable_portal_name	Sabit Portal	
+card_stable_portal_status	Portala giriliyor	
+card_staff_of_fear_description	Çok korkutucu!!	
+card_staff_of_fear_name	Korku Asası	
+card_strange_portal_description	Tehlikeli görünüyor. Acaba içine girebilir miyiz?	
+card_strange_portal_name	Garip Portal	
+card_throwing_star_description	Hızlı ve isabetli, ninjalar bayılır	
+card_throwing_star_name	Fırlatma Yıldızları	
+card_tiger_fur_coat_description	Çöplük ama en azından kendini güçlü hissettirir	
+card_tiger_fur_coat_name	Kaplan Postu Ceket	
+card_warrior_description	Spor yapan köylü	
+card_warrior_name	Savaşçı	
+card_wicked_witch_description	Yaşlı kadınken daha iyiydi	
+card_wicked_witch_name	Kötü Cadı	
+card_wicked_witch_name_2	Yaşlı Kadın	
+card_wizard_description	Parlayan köylü	
+card_wizard_name	Büyücü	
+card_wizard_robe_description	Sihirli battaniye gibi	
+card_wizard_robe_name	Büyücü Cüppesi	
+card_wolf_head_description	Furry’ler için mükemmel	
+card_wolf_head_name	Kurt Kafası	
+card_wooden_shield_description	Temel savunma	
+card_wooden_shield_name	Tahta Kalkan	
+cardtype_equipable	Ekipman	
+control_toggle_inventory	Envanteri Aç	
+credits_wouter	Programlama	
+defence_veryweak	Çok Zayıf	
+defence_weak	Zayıf	
+defence_normal	Normal	
+defence_strong	Güçlü	
+defence_verystrong	Çok Güçlü	
+defence_extremelystrong	Aşırı Güçlü	
+hitchance_verysmall	Çok Küçük	
+hitchance_small	Küçük	
+hitchance_normal	Normal	
+hitchance_high	Yüksek	
+hitchance_veryhigh	Çok Yüksek	
+hitchance_extremelyhigh	Aşırı Yüksek	
+idea_amulet_of_forest_status_0	Orman Tılsımı işleniyor	
+idea_amulet_of_mountain_status_0	Dağ Tılsımı işleniyor	
+idea_axe_status_0	Balta yapılıyor	
+idea_blowpipe_status_0	Üfleme borusu yapılıyor	
+idea_blunderbuss_status_0	Tüfek yapılıyor	
+idea_bone_spear_status_0	Kemik Mızrak yapılıyor	
+idea_bone_staff_status_0	Kemik Asa yapılıyor	
+idea_boomerang_status_0	Bumerang yapılıyor	
+idea_bow_status_0	Yay yapılıyor	
+idea_broken_bottle_status_0	Şişe kırılıyor	
+idea_chainmail_armor_status_0	Zincir zırh yapılıyor	
+idea_club_status_0	Sopa yapılıyor	
+idea_crossbow_status_0	Arbalet yapılıyor	
+idea_gold_chestplate_status_0	Zırh işleniyor	
+idea_growth_status_12	Şeker kamışı yetiştiriliyor	
+idea_hammer_status_0	Çekiç yapılıyor	
+idea_iron_shield_status_0	Demir Kalkan işleniyor	
+idea_magic_blade_status_0	Büyülü Kılıç yapılıyor	
+idea_magic_ring_status_0	Büyülü Yüzük yapılıyor	
+idea_magic_staff_status_0	Büyülü Asa yapılıyor	
+idea_magic_tome_status_0	Büyü kitabı yapılıyor	
+idea_magic_wand_status_0	Büyülü Değnek yapılıyor	
+idea_pickaxe_status_0	Kazma yapılıyor	
+idea_slingshot_status_0	Sapan yapılıyor	
+idea_smithy_status_0	Demirci inşa ediliyor	
+idea_spiked_plank_status_0	Tahta çivilemek	
+idea_stable_portal_status_0	Sabit Portal inşa ediliyor	
+idea_throwing_star_status_0	Fırlatma Yıldızı yapılıyor	
+idea_wizard_robe_status_0	Büyücü Cüppesi yapılıyor	
+idea_wooden_shield_status_0	Tahta Kalkan yapılıyor	
+label_base_combatlevel	Temel Savaş Seviyesi [level]	
+label_can_drop	Düşürebilir:	
+label_cancel_the_ritual	Bir dakika...	
+label_combatlevel	Savaş Seviyesi [level]	
+label_debug_cards	Kartlar	
+label_debug_coin_chest	Tam dolu para sandığı oluştur	
+label_debug_effects	Durum etkileri	
+label_debug_end_moon	Mevcut ayı bitir	
+label_debug_endless_moon	Sonsuz ay: [on_off]	
+label_debug_general	Genel	
+label_debug_start_cities_run	Şehirler Koşusunu Başlat	
+label_debug_reset_run	Koşu değişkenlerini sıfırla	
+label_debug_scenario_demon	İblis ortaya çıkar	
+label_debug_scenario_demon_lord	İblis Lordu ortaya çıkar	
+label_debug_scenario_island	Adaya git	
+label_debug_scenario_kraken	Kraken ortaya çıkar	
+label_debug_scenario_witch_forest	Cadı ormanına git	
+label_debug_shortcut_copy	Hover + C: Kartı kopyala	
+label_debug_shortcut_delete	Hover + R: Kartı sil/öldür	
+label_debug_shortcut_heal	Hover + H: Kartı iyileştir	
+label_debug_shortcut_progress	Hover + Z: İlerlemesini tamamla	
+label_debug_shortcut_status	Hover + U: Durum etkilerini kaldır	
+label_debug_shortcuts	Kısayollar	
+label_debug_spawn_enemies	Düşmanları ortaya çıkar	
+label_debug_toggle_no_food	Yemek kullanılmıyor: [on_off]	
+label_debug_toggle_peaceful_mode	Barışçıl mod: [on_off]	
+label_debug_unlock_boosters	Tüm booster paketlerinin kilidini aç	
+label_debug_unlock_ideas	Tüm fikirlerin kilidini aç	
+label_debug_unlock_quests	Tüm görevlerin kilidini aç	
+label_defence	Savunma	
+label_demo	Demo	
+label_demo_any_key_to_start	Herhangi bir tuşa basarak oynamaya başla	
+label_demo_reset_warning	Demo [time]sn içinde sıfırlanacak, devam etmek için herhangi bir tuşa bas	
+label_equiping	[card] kuşanılıyor	
+label_everyone_in_forest_dead	İntikam alamadın	
+label_everyone_in_forest_dead_text	Güçlen ve tekrar dene!	
+label_extra_combat_stats	Ekstra Savaş İstatistikleri: [on_off]	
+label_forest_fight	Savaşmaya hazır ol!	
+label_forest_fight_wave_10	Kötü Cadı ile savaşmaya hazır ol!	
+label_forest_intro_1	Karanlık Ormana giriyorsun	
+label_forest_intro_2	Bir yaşlı kadın ortaya çıktı!	
+label_forest_intro_3	İyi günler yolcu..	
+label_forest_intro_4	Yakına gelince hiç yaşlı kadına benzemiyor!	
+label_forest_intro_5	O bir Kötü Cadı!	
+label_forest_intro_6	İntikam almaya geldin ama asla beni yenemeyeceksin!	
+label_forest_intro_title	Karanlık Orman	
+label_forest_leave	Kazancınla kaçtın	
+label_forest_lost	Zavallı, bu kadar mıydı?	
+label_forest_lost_2	Tüm köylülerin düştü. Kayıpları kabul et ve geri çekil.	
+label_forest_lost_title	Köylülerin soldu gitti	
+label_forest_resume	Yine mi geldin? Asla beni yenemeyeceksin!	
+label_forest_resume_title	Yine geldin mi?	
+label_forest_wave_10_end	Bu nasıl oldu? Seni yeneceğim!	
+label_forest_wave_10_end2	Kötü Cadı ile savaşmak mı yoksa ormandan ayrılmak mı istersin?	
+label_forest_wave_end	Minyonlarımı yendin ama daha bir sürü var!	
+label_forest_wave_end_leave	Ormandan kaç	
+label_forest_wave_end_next_wave	[wave]. dalga ile savaş	
+label_forest_wave_end_wave_10	Kötü Cadı ile savaş	
+label_forest_wave_end2	Sonraki dalgayla savaşmak mı yoksa kaçmak mı istersin?	
+label_forest_wave_endless_end	Kötü Cadı’yı yendin, ama karanlık bir güç hala etrafta..	
+label_forest_wave_endless_end3	Daha fazla kaynak kazanmak için savaşmaya devam edebilirsin	
+label_forest_wave_title	Dalga Yenildi	
+label_framerate_120	120 FPS	
+label_framerate_30	30 FPS	
+label_framerate_60	60 FPS	
+label_framerate_cap	FPS sınırı: [fps_cap]	
+label_framerate_unlimited	Yok	
+label_go_to_forest_prompt	Bu Portal’dan geçmek istediğine emin misin?	
+label_inventory	Envanter	
+label_not_enough_food_before_portal	Portala girmek için köylülerine yeterli yiyecek sağlamalısın	
+label_taking_portal_full	Portal ile ışınlanılıyor	
+label_taking_portal_title	Portal’ı kullan	
+label_total_combatlevel	Toplam Savaş Seviyesi [level]	
+quest_break_bottle_text	Şişe kır	
+quest_build_smithy_text	Demirci inşa et	
+quest_build_stable_portal_text	Sabit Portal inşa et	
+quest_craft_amulet_forest_text	Orman Tılsımı işle	
+quest_equip_archer_quiver_text	Okçuya ok kılıfı tak	
+quest_fight_wave_six_text	6. dalgaya ulaş	
+quest_fight_wicked_witch_text	Kötü Cadı ile savaş	
+quest_find_dark_forest_text	Karanlık Ormanı bul	
+quest_finish_first_wave_text	İlk dalgayı tamamla	
+quest_plant_berry_bush_text	Toprak kullanarak Yaban mersini çalısı yetiştir	
+quest_punch_rock_text	Bir köylüyle kaya kaz	
+quest_punch_tree_text	Bir köylüyle ağaç hasat et	
+quest_train_archer_text	Okçu eğit	
+quest_train_ninja_text	Ninja eğit	
+quest_train_wizard_text	Büyücü eğit	
+quest_villager_combat_20_text	Savaş Seviyesi 20 olan köylün olsun	
+quest_wear_bunny_hat_text	Bir köylüyü Tavşan Şapkası tak	
+quest_wear_crab_scale_armor_text	Bir köylüyü Yengeç Zırhı giydir	
+questgroup_equipment	Güçlen	
+questgroup_forest_mainquest	Karanlık Orman	
+rumor_combat_description	Bazı saldırı türleri diğerlerine karşı daha güçlüdür. Örneğin, Yakın Dövüş, Büyü’ye karşı güçlüdür!	
+rumor_combat_name	Savaş	
+specialhit_bleeding_long	[chance]% şansla [target] Kanatır	
+specialhit_crit_long	[chance]% şansla [target] Kritik Vuruş yapar	
+specialhit_damage_long	[chance]% şansla [target] Hasar verir	
+specialhit_frenzy_long	[chance]% şansla [target] Çıldırtır	
+specialhit_heal_long	[chance]% şansla [target] İyileştirir	
+specialhit_heallowest_long	[chance]% şansla en düşük sağlıklı dostu iyileştirir	
+specialhit_invulnerable_long	[chance]% şansla [target] Savunulmaz yapar	
+specialhit_lifesteal_long	[chance]% şansla [target] Can çeker	
+specialhit_poison_long	[chance]% şansla [target] Zehirler	
+specialhit_stun_long	[chance]% şansla [target] Sersemletir	
+statuseffect_bleeding_description	Her 2 saniyede 10 saniye boyunca hasar verir	
+statuseffect_bleeding_lore	Fışkırıyor	
+statuseffect_bleeding_name	Kanama	
+statuseffect_frenzy_description	10 saniye boyunca saldırı hızını artırır	
+statuseffect_frenzy_lore	Küplere binmişler	
+statuseffect_frenzy_name	Cinnet	
+statuseffect_invulnerable_description	10 saniye boyunca hasar alınmaz	
+statuseffect_invulnerable_lore	Çelikten yapılmış deri	
+statuseffect_invulnerable_name	Savunulmaz	
+target_allenemy	tüm düşmanlar	
+target_allfriendly	tüm dostlar	
+target_randomenemy	rastgele düşman	
+target_randomfriendly	rastgele dost	
+target_self	kendi	
+target_target	hedef	
+cardtype_humans	Köylüler	
+label_food_infobox	Her Ay [required_food_count] [foodicon] gerekir. Şu anda [food_count] [foodicon] var	
+label_food_infobox_warning	Köylülerini kaybetmemek için [foodicon] topla!	
+label_starving_humans	<one>Yeterli yemek yok... 1 Köylü açlıktan ölecek<other>Yeterli yemek yok... [count] Köylü açlıktan ölecek	
+card_tuna_description	İri balık	
+card_cod_description	Islak ve kaygan balık	
+card_mackerel_description	Küçük balık	
+label_health	Maksimum Sağlık	
+label_wave	Dalga [wave]	
+label_undiscovered_cards_tooltip	Bu pakette hala keşfedilmemiş kartlar var	
+label_undiscovered_cards_tooltip_title	Keşfedilmemiş Kartlar	
+rumor_dark_forest_name	Karanlık Orman	
+rumor_dark_forest_description	Garip Portal’ın arkasında gizli bir dünya var	
+pack_equipment_text	Silah Deposu	
+label_ui_scale	Arayüz Ölçeği: [scale]	
+label_ui_scale_100	100%	
+label_ui_scale_80	80%	
+label_ui_scale_60	60%	
+pack_combat_intro_text	Yeni Silahlar	
+label_strange_portal_appeared_strong	Normalden daha güçlü görünüyor	
+label_itemlevel	Eşya Seviyesi [level]	
+label_health_info	Sağlık: [health]/[maxhealth]	
+card_rare_portal_name	Nadir Portal	
+card_rare_portal_description	Tehlikeli görünüyor. Acaba içine girebilir miyiz?	
+label_forest_wave_endless_end2	Karanlık Orman görevini bitirdin	
+label_max_villager_in_portal	Portala sadece 7 köylüyle girebilirsin	
+card_stable_portal_description	Karanlık Ormana kalıcı portal. 7 kart taşıyabilir. İntikam zamanı!	
+label_update_title_forest	Karanlık Orman Güncellemesi	
+label_update_text_forest	Son güncelleme geldi! Yeni bir alan ekledik, dövüşte büyük değişiklikler ve çeşitli yaşam kalitesi iyileştirmeleri yaptık!##Bu güncelleme ana oyunda birçok değişiklik getiriyor. En iyi deneyim için yeni bir oyun başlatmalısın!	
+card_militia_description	Kavga etmeye hazır köylü.	
+card_swordsman_description	Savaşmaya hazır köylü!	
+quest_pause_game_text	Sağ üstteki oynat tuşuyla duraklatabilirsin	
+card_university_name	Üniversite	
+card_university_description_long	Bilgelik yeri. [max_count] Coin bağışladıkça yeni bir Fikir verir. [count]/[max_count] Coin bağışlandı.	
+card_university_description_completed	Bilgelik yeri. Tüm Fikirlerini keşfettin.	
+idea_university_status_0	Üniversite inşa etmek	
+label_invention_fullname	Buluş: [name]	
+card_lighthouse_name	Deniz Feneri	
+card_lighthouse_description	Tahta limiti aşar	
+idea_lighthouse_status_0	Deniz Feneri inşa etmek	
+card_resource_chest_name_override	[resource] Sandığı	
+card_resource_chest_name	Kaynak Sandığı	
+card_resource_chest_description	Kaynak depolamak için Sandık	
+card_resource_chest_description_long	[amount] [resource] içeren Sandık	
+idea_resourcechest_status_0	Kaynak Sandığı inşa etmek	
+card_resource_magnet_name	Kaynak Mıknatısı	
+card_resource_magnet_name_override	[resource] Mıknatısı	
+card_resource_magnet_description	Bu kart aynı türdeki kartları kendine çeker	
+card_resource_magnet_description_long	Mıknatıs [resource] çekiyor	
+idea_resource_magnet_status_0	Kaynak Mıknatısı inşa etmek	
+card_heavy_foundation_name	Büyülü Yapıştırıcı	
+card_heavy_foundation_description	Üstündeki desteyi tahtaya yapıştırır, hareket ettirilemez	
+idea_heavy_foundation_status_0	Büyülü Yapıştırıcı yapılıyor	
+card_conveyor_name	Vinç	
+card_conveyor_description	Kartları bir yerden diğerine taşır	
+card_conveyor_status	[resource] kaldırıyor	
+idea_conveyor_status_0	Vinç inşa ediliyor	
+card_hotpot_name	Hotpot (Sıcak yemek kabı)	
+card_hotpot_description	Köylülerinin ay sonunda yiyebileceği, yenilenebilir bir yemek kaynağı. Yiyecek ekle, ay sonunda yerler!	
+idea_hotpot_status_0	Hotpot inşa etmek	
+card_trash_can_name	Çöp kutusu	
+card_trash_can_description	İstemediğin kartlardan kurtulmanı sağlar	
+idea_trash_can_status_0	Çöp kutusu inşa etmek	
+card_trash_can_status_0	Kartı atmak	
+label_update_text_chaos	İşte yeni küçük bir güncelleme! Orta ve geç oyunu kolaylaştıracak bir sürü kart ekledik.##Yemek, kaynak yönetimi ve hatta otomasyon için kullanılabilecek kartlar var!##Ayrıca birkaç hata ve yaşam kalitesi iyileştirmesi yaptık. Keyfini çıkar!	
+label_update_title_chaos	Düzen & Yapı	
+label_menu_sub_title	Düzen & Yapı	
+card_breeding_pen_name	Üreme Ağılı	
+card_breeding_pen_description	Hayvan yetiştirme ağılı	
+idea_breedingpen_status_0	Üreme Ağılı inşa ediliyor	
+action_breeding_status	Hayvan yetiştirme	
+action_slaughtering_status	Hayvan kesme	
+card_slaughter_house_name	Kasap	
+card_slaughter_house_description	Hayvanları tatile gönderir	
+idea_slaughterhouse_status_0	Kasap inşa ediliyor	
+card_wishing_well_name	Dilek Kuyusu	
+card_wishing_well_description_long	<one>[count] coin başına bir dilek veriyor. Şu anda [amount] dileğin var<other>[count] coin başına bir dilek veriyor. Şu anda [amount] dileğin var	
+card_wishing_well_wish_1	Aah! İlk dileğim	
+card_wishing_well_wish_2	Şanslı hissediyorum!	
+card_wishing_well_wish_5	Ne güzel günler!	
+card_wishing_well_wish_10	Umarım bu Dilek Kuyusu bir işe yarar	
+card_wishing_well_wish_20	Dileklere çok para harcıyorum	
+card_wishing_well_wish_50	Hiçbir yere gitmiyor. Dilek almayı bırakmalıyım	
+idea_wishing_well_status_0	Dilek Kuyusu inşa ediliyor	
+card_brickyard_status	Tuğla yapmak	
+card_sawmill_status	Tahta kalas yapmak	
+label_one_villager_needs_to_stay_island	En az bir köylü adada kalmalı	
+card_university_status	Araştırma	
+label_demand_coins_text	Güzel şeyler almak istiyorum! Ay [monthFinished] bitmeden bana [amount] Coin getir	
+label_demand_garden_text	Yemek azalıyor, hizmetçilerim daha fazlasını yapsın istiyorum. Ay [monthFinished] bitmeden bana Bahçe kur	
+label_demand_olives_text	Farklı bir şey yemek istiyorum... egzotik bir şey. Ay [monthFinished] bitmeden bana [amount] Zeytin getir	
+label_demand_beer_text	Ay [monthFinished] sonunda misafirim olacak. O zamana kadar bana [amount] Bira getir	
+label_demand_fancy_dress_text	Hoşlandığım birini etkilemek istiyorum. Ay [monthFinished] bitmeden bana Şık Elbise getir	
+label_demand_royal_banquet_text	Birkaç ay sonra doğum günüm, büyük bir ziyafet istiyorum! Ay [monthFinished] bitmeden bana Kraliyet Ziyafeti getir	
+label_demand_wool_socks_text	Ayaklarım üşüyor! Ay [monthFinished] bitmeden bana Mor Çorap getir	
+label_demand_wine_text	Şarap mahzeni boş! Ay [monthFinished] bitmeden bana 2 şişe şarap getir	
+label_demand_painting_text	Evime hava katmak istiyorum. Ay [monthFinished] bitmeden bana bir Tablo getir	
+label_missing_cards_more_text	ve [amount] tane daha	
+label_animal_die	Bazı Hayvanlar öldü	
+specialhit_sick_long	[chance]% şansla [target] Hasta yapar	
+card_well_name	Kuyu	
+card_well_description	Sonsuz su kaynağı	
+card_well_status_0	Kuyu inşa ediliyor	
+card_well_status_1	Su almak	
+label_disable_paused_text	"Yanıp sönen ""Duraklatıldı"": [on_off]"	
+label_placeholder_search	Ara	
+label_conflict_very_effective	Çok etkili	
+cutscene_happiness_food_text_0	Biraz yemek sattın...	
+cutscene_happiness_food_text_1	Köylülerin yiyebileceği bir yemeği satarsan Üzüntü oluşur	
+label_altar_cutscene_mainland	Bu Ruh Dünyasını zaten tamamladın. Yeniden başlatmak mı yoksa lanetini buraya çağırmak mı istersin?	
+label_altar_run_board	Lanet Çağır: [curse]	
+label_altar_run_redo	Ruh Dünyasını Yeniden Başlat	
+board_island_name	Ada	
+board_main_name	Anakara	
+board_forest_name	Orman	
+board_greed_name	Açgözlülük	
+board_death_name	Ölüm	
+board_happiness_name	Mutluluk	
+label_altar_cutscene_good_luck	Laneti çağırdın, bol şans!	
+cutscene_happiness_middle_text_0	Köyü mutlu tutmakta iyi iş çıkarıyorsun. Daha fazlasını toplarsak laneti kaldırabiliriz!	
+label_name_villager_title	Bu Kartı Adlandır	
+credits_Tumult	Ses efektleri	
+label_spirit_outro_0_greed	Açgözlülük Lanetini kaldırdın!	
+label_spirit_outro_0_death	Ölüm Lanetini kaldırdın!	
+label_spirit_outro_0_happiness	Üzüntü Lanetini kaldırdın!	
+card_sad_event_description	Her 2 köylüye 1 Üzüntü oluşturur	
+card_sad_event_name	Üzücü Olay	
+label_sad_event_appeared	Yakında üzücü bir şey olacak!	
+label_greed_demand_failed_fight_peaceful	Sana ders vermem gerekecek... Paralarını alıyorum!!	
+label_shaman_intro_peaceful	Tapınak ve Altın Kupa’yı birleştirerek Küçük Tekne fikrini buldun	
+card_archer_name_young	Genç Okçu	
+card_archer_name_old	Yaşlı Okçu	
+card_builder_name_young	Genç İnşaatçı	
+card_builder_name_old	Yaşlı İnşaatçı	
+card_lumberjack_name_young	Genç Oduncu	
+card_lumberjack_name_old	Yaşlı Oduncu	
+card_mage_name_young	Genç Büyücü	
+card_mage_name_old	Yaşlı Büyücü	
+card_miner_name_young	Genç Madenci	
+card_miner_name_old	Yaşlı Madenci	
+card_ninja_name_young	Genç Ninja	
+card_ninja_name_old	Yaşlı Ninja	
+card_warrior_name_young	Genç Savaşçı	
+card_warrior_name_old	Yaşlı Savaşçı	
+card_wizard_name_young	Genç Büyücü	
+card_wizard_name_old	Yaşlı Büyücü	
+card_explorer_name_young	Genç Kaşif	
+card_explorer_name_old	Yaşlı Kaşif	
+card_militia_name_young	Genç Milis	
+card_militia_name_old	Yaşlı Milis	
+card_swordsman_name_young	Genç Kılıç Ustası	
+card_swordsman_name_old	Yaşlı Kılıç Ustası	
+card_fisher_name_young	Genç Balıkçı	
+card_fisher_name_old	Yaşlı Balıkçı	
+card_friendly_pirate_name_young	Genç Dost Korsan	
+card_friendly_pirate_name_old	Yaşlı Dost Korsan	
+card_trained_monkey_name_young	Genç Eğitilmiş Maymun	
+card_trained_monkey_name_old	Yaşlı Eğitilmiş Maymun	
+card_jester_name_young	Genç Soytarı	
+card_jester_name_old	Yaşlı Soytarı	
+label_youtube_dlc_title	Lanetli Dünyalar - erken erişim	
+label_youtube_dlc_text	Bu, Stacklands Cursed Worlds DLC’sinin özel bir erken erişim sürümüdür!##Hazır kayıt dosyamızla yeni içeriğe hızlıca erişebilirsin. Bu kayıt, oyunun ilk boss’undan hemen sonra başlıyor.##Dilersen mevcut kaydından da devam edebilirsin.##Sıfırdan başlamak istersen ayarlardan kaydı sil.	
+label_load_run	Hazır kayıt dosyasını kullan	
+label_exit	Normal devam et	
+card_chicken_name_old	Yaşlı Tavuk	
+card_cow_name_old	Yaşlı İnek	
+card_crab_name_old	Yaşlı Yengeç	
+card_horse_name_old	Yaşlı At	
+card_monkey_name_old	Yaşlı Maymun	
+card_parrot_name_old	Yaşlı Papağan	
+card_rabbit_name_old	Yaşlı Tavşan	
+card_sheep_name_old	Yaşlı Koyun	
+cutscene_death_middle_text_3	Zamanında yeni bir köylü alamadın...	
+cutscene_death_middle_text_4	Ne yazık ki bu köy sona erecek..	
+label_greed_given	[given] verildi	
+credits_betatesting	Beta testi	
+quest_happiness_read_book_text	Kitap oku	
+label_music	Müzik	
+label_click_this_pack	Bu Paketi aç, Kartlar kazan!	
+card_coin_chest_description_long	Para tutabilen sandık. Etkileşimle Paraları al. [count]/[max_count][goldicon] içerir	
+card_shell_chest_description_long	Kabuk tutabilen sandık. Etkileşimle Kabukları al. [count]/[max_count][shellicon] içerir	
+label_toggle_inventory	Envanteri aç/kapat	
+card_altar_description	Ruh çağırmak için kullanılır	
+card_altar_name	Sunak	
+card_angry_royal_description	En önemli adamı kızdırdın	
+card_angry_royal_name	Kızgın Kral	
+card_animal_cage_description	1 hayvan alabilir	
+card_animal_cage_name	Hayvan Kafesi	
+card_animal_cage_status_0	Hayvan Kafesi inşa etmek	
+card_animal_eating_status	Buğday yemek	
+card_animal_old_name	Yaşlı [isim]	
+card_animal_pen_status	[name] şunu üretiyor: [card]	
+card_baby_dragon_description	Büyülü dinozor	
+card_baby_dragon_name	Ejderha yavrusu	
+card_barrel_description	Islak karışımları başka karışımlara dönüştürür	
+card_barrel_name	Varil	
+card_barrel_status_0	Varil inşa etmek	
+card_beer_description	Su ve buğday. Efsane ikili.	
+card_beer_name	Bira	
+card_beer_status_0	Bira üretmek	
+card_book_description	Oyunlar ama nerdler için	
+card_book_name	Kitap	
+card_book_status_0	Kitap yapmak	
+card_bread_description	Kim sevmez ki	
+card_bread_name	Ekmek	
+card_bread_status_0	Ekmek yapmak	
+card_cat_description	Tatlı ama huysuz	
+card_cat_name	Kedi	
+card_charity_description	Verdiğin her [amount] Coin için 1 Mutluluk üretir	
+card_charity_name	Hayır Kurumu	
+card_charity_status_0	Hayır Kurumu inşa etmek	
+card_charity_status_active	Hayır Kurumuna bağış yapmak	
+card_cheese_description	Tadı Gouda gibi	
+card_cheese_name	Peynir	
+card_cheese_status_0	Peynir yapmak	
+card_corpse_name_long	[isim] cesedi	
+card_corpse_remove	Ceset gömmek	
+card_crown_description	Kraliyet gibi davran	
+card_crown_name	Taç	
+card_crown_status_0	Taç yapmak	
+card_curse_happiness_description	Köylülerin her [month] ayda Mutluluğa ihtiyaç duyar.	
+card_death_curse_description	Ölüm ama vergi yok. Köylüler yaşlanır ve hastalanır.	
+card_death_curse_name	Ölüm Laneti	
+card_death_recipe_description	Sunakta Çiğ Et sunmak bir ruh çağırır	
+card_death_recipe_name	Ölüm Dünyası	
+card_death_spirit_description	Çok uzak bir dünyadan, köylüler yaşlanır ve hastalanır	
+card_death_spirit_name	Ölüm Ruhu	
+card_display_spirit_dlc_description	Bu kartlara erişmek için Cursed Worlds DLC’sini al	
+card_display_spirit_dlc_name	Lanetli Dünyalar	
+card_dough_description	Pencere testini geçiyor	
+card_dough_name	Hamur	
+card_dough_status_0	Hamur yapmak	
+card_dragon_egg_description	Büyük benekli tavuk yumurtası	
+card_dragon_egg_name	Ejderha Yumurtası	
+card_dragon_egg_name_cracked	Çatlamış Ejderha Yumurtası	
+card_dragon_scale_armor_description	Güzel bir zırh ama hangi bedelle...	
+card_dragon_scale_armor_name	Ejderha Pullu Zırh	
+card_euphoria_description	Yoğun heyecan ve mutluluk hali	
+card_euphoria_name	Coşku	
+card_euphoria_status_0	Coşku yaratmak	
+card_fiend_description	Büyük, iblis gibi bir yaratık	
+card_fiend_name	İblis Yoldaşı	
+card_fish_chips_description	Fish and Chips ile karıştırma	
+card_fish_chips_name	Balık ve Cips	
+card_fish_chips_status_0	Balık ve Cips yapmak	
+card_flour_description	Kumlu. Hamur için ana malzeme	
+card_flour_mill_description	Buğdayı una çevirir	
+card_flour_mill_name	Değirmen	
+card_flour_name	Un	
+card_fountain_of_youth_description	Ölüm Lanetini kaldırır	
+card_fountain_of_youth_name	Gençlik Pınarı	
+card_fountain_of_youth_status_0	Gençlik Pınarı yaratmak	
+card_french_fries_description	Kıtır patates	
+card_french_fries_name	Patates Kızartması	
+card_french_fries_status_0	Patates Kızartması kızartmak	
+card_ghoul_description	Lanetli ruh	
+card_ghoul_name	Gulyabani	
+card_grape_description	Sadece havalı bir meyve	
+card_grape_name	Üzüm	
+card_grape_pulp_description	Üzüm bulamacı	
+card_grape_pulp_name	Üzüm püresi	
+card_grape_pulp_status_0	Üzümler eziliyor	
+card_grape_vine_description	İpli çalı	
+card_grape_vine_name	Üzüm Şarabı	
+card_grape_vine_status	Üzüm toplama	
+card_greed_curse_description	Açgözlü Kral ülkeyi yönetiyor. Taleplerini yerine getir.	
+card_greed_curse_name	Açgözlülük Laneti	
+card_greed_recipe_description	Sunakta Coin sunmak bir ruh çağırır	
+card_greed_recipe_name	Açgözlülük Dünyası	
+card_greed_spirit_description	Çok uzak bir dünyadan, kral ülkeyi yönetiyor	
+card_greed_spirit_name	Açgözlülük Ruhu	
+card_happiness_curse_description	Herkes Mutluluk ister.	
+card_happiness_curse_name	Üzüntü Laneti	
+card_happiness_description	Bir Mutluluk birimi. Köylüleri mutlu tutar	
+card_happiness_name	Mutluluk	
+card_happiness_recipe_description	Sunakta kömür sunmak bir ruh çağırır	
+card_happiness_recipe_name	Üzüntü Dünyası	
+card_happiness_spirit_description	Çok uzak bir dünyadan, köylüler üzgün olur	
+card_happiness_spirit_name	Üzüntü Ruhu	
+card_herbal_tea_description	Kendini iyi hissettirir	
+card_herbal_tea_name	Bitki Çayı	
+card_herbal_tea_status_0	Bitki çayı yapmak	
+card_herbal_tea_status_1	Köylüyü iyileştirme	
+card_herbs_description	Aromalı yapraklar	
+card_herbs_name	Otlar	
+card_hop_plant_status_0	Şerbetçiotu toplama	
+card_horse_description	Garip görünümlü inek	
+card_horse_name	At	
+card_human_poop_description	Ekstra kokulu	
+card_human_poop_name	Köylü dışkısı	
+card_imp_description	Pis küçük yaratık	
+card_imp_name	Küçük Şeytan	
+card_jester_description	Partilerde eğlenceli	
+card_jester_hat_description	Seni soytarı gibi gösterir	
+card_jester_hat_name	Soytarı Şapkası	
+card_jester_hat_status_0	Soytarı Şapkası yapmak	
+card_jester_name	Soytarı	
+card_kitten_description	Yumuşak ve sevimli <3	
+card_kitten_name	Yavru kedi	
+card_merchant_description	Ejderha yumurtası 100 Coin’e satılıyor!	
+card_merchant_description_2	Ejderha yumurtası 100 Coin’e satılıyor! [coinsNeeded] Coin’e daha ihtiyaç var.	
+card_merchant_name	Tüccar	
+card_museum_description	Kaynakları Mutluluğa çevirir, verilen her yeni kaynak için	
+card_museum_name	Müze	
+card_museum_status_0	Müze inşa etmek	
+card_naming_stone_description	Kim kimdi unutma!	
+card_naming_stone_name	İsim Taşı	
+card_naming_stone_status_0	İsim Taşı inşa etmek	
+card_old_cat_description	Bazen huysuz	
+card_old_cat_name	Yaşlı kedi	
+card_old_dog_description	Hala çok tatlı	
+card_old_dog_name	Yaşlı köpek	
+card_old_villager_description	Hayatı gözlerinin önünden geçiyor	
+card_old_villager_name	Yaşlı köylü	
+card_olive_description	Akdeniz klasiği	
+card_olive_name	Zeytin	
+card_olive_oil_description	Lezzetli zeytinyağı	
+card_olive_oil_name	Zeytin Yağı	
+card_olive_oil_status_0	Zeytinyağı yapmak	
+card_olive_pulp_description	Zeytin Bulamacı	
+card_olive_pulp_name	Zeytin püresi	
+card_olive_pulp_status_0	Zeytin eziliyor	
+card_olive_tree_description	3500 yıla kadar yaşayabilir	
+card_olive_tree_name	Zeytin Ağacı	
+card_olive_tree_status	Zeytin toplama	
+card_outhouse_description	Dışkıdan kurtulmak için kullanılır	
+card_outhouse_name	Tuvalet	
+card_outhouse_remove_poop	Dışkıdan kurtulmak	
+card_outhouse_status_0	Tuvalet inşa etmek	
+card_oven_description	Her türlü şeyi pişirmek için kullanılır	
+card_oven_name	Fırın	
+card_painting_description	Bir Fransız köylüsünün çizimi	
+card_painting_name	Tablo	
+card_painting_status_0	Tablo yapmak	
+card_pancakes_description	Büyük yığın!	
+card_pancakes_name	Pankek	
+card_pancakes_status_0	Pankek yapmak	
+card_paper_description	Islak, ince dilimlenmiş odun	
+card_paper_name	Kağıt	
+card_paper_status_0	Kağıt yapmak	
+card_petting_zoo_description	Üzerine konan her Hayvan için Mutluluk üretir	
+card_petting_zoo_name	Hayvanat Bahçesi	
+card_petting_zoo_status_0	Hayvanat Bahçesi inşa etmek	
+card_petting_zoo_status_active	Hayvanları sevmek	
+card_pizza_description	Süper!	
+card_pizza_name	Pizza	
+card_pizza_status_0	Pizza yapmak	
+card_plague_mask_description	Hastalanmazsın	
+card_plague_mask_name	Veba Maskesi	
+card_plague_mask_status_0	Veba Maskesi yapmak	
+card_poop_cant_sell	Ölüm Laneti aktifken Dışkı satılamaz	
+card_poop_slime_description	Dışkıdan yapılmış slime	
+card_poop_slime_name	Dışkı Slime	
+card_possessed_blade_description	Kullanıcısını huzursuz eder	
+card_possessed_blade_name	Lanetli Bıçak	
+card_puppy_description	Çok tatlı	
+card_puppy_name	Yavru köpek	
+card_rag_description	Uyumsuz pamuk parçası	
+card_rag_name	Paçavra	
+card_roasted_fish_description	Güzelce kızarmış	
+card_roasted_fish_name	Kızarmış balık	
+card_roasted_fish_status_0	Balık kızartmak	
+card_roasted_meat_description	Dışı çıtır	
+card_roasted_meat_name	Kızarmış et	
+card_roasted_meat_status_0	Et kızartmak	
+card_royal_archer_description	Şatoda eğitilmiş	
+card_royal_archer_name	Kraliyet Okçusu	
+card_royal_banquet_description	Çok lezzetli yemeklerin birleşimi	
+card_royal_banquet_name	Kraliyet Ziyafeti	
+card_royal_banquet_status_0	Kraliyet Ziyafeti hazırlamak	
+card_royal_crown_description	Güç verir, açgözlü yapar	
+card_royal_crown_name	Kraliyet Tacı	
+card_royal_description	Şımarık velet	
+card_royal_description_demand_2	Bir ejderha yumurtası ister. Bulduğunda ona geri gel.	
+card_royal_guard_description	Kendini kral için feda eder	
+card_royal_guard_name	Kraliyet Muhafızı	
+card_royal_mage_description	Asil büyücü	
+card_royal_mage_name	Kraliyet Büyücüsü	
+card_royal_name	Kraliyet	
+card_royal_tunic_description	Savaş alanında havalı görünür	
+card_royal_tunic_name	Muhafız Tuniği	
+card_ruins_description	Eski bir yer. Keşfetmek için [required_count] köylü gerekir.	
+card_ruins_name	Harabe	
+card_ruins_status	Harabe keşfetmek	
+card_sadness_demon_description	Köylülerinin üzüntüsüyle oluştu	
+card_sadness_demon_name	Üzüntü İblisi	
+card_scythe_description	Çiftçilik ve canavar kesmek için yararlı	
+card_scythe_name	Orak	
+card_scythe_status_0	Orak yapmak	
+card_sewer_description	Dışkıyı otomatik çeker	
+card_sewer_name	Kanalizasyon	
+card_sewer_status_0	Kanalizasyon inşa etmek	
+card_shaman_description	Ruhlarla konuşur	
+card_shaman_name	Şaman	
+card_shaman_status	İlahi söylemek	
+card_spirit_status_1	Ruhlar Dünyası’ndan ayrılmak	
+card_spring_description	Su kaynağı. Boş şişe doldurmak için de kullanılabilir	
+card_spring_name	Kaynak	
+card_squire_description	Kalkanını taşır	
+card_squire_name	Süvari	
+card_squire_tunic_description	Şövalye adayları için	
+card_squire_tunic_name	Süvari Tuniği	
+card_squire_tunic_status_0	Süvari Tuniği yapmak	
+card_stomping_vat_description	Ayaklarını önce yıka	
+card_stomping_vat_name	Ezme Kabı	
+card_stomping_vat_status_0	Ezme Kabı inşa etmek	
+card_tavern_description	Yemekten Mutluluk üretir	
+card_tavern_name	Meyhane	
+card_tavern_status_0	Yemek servisi	
+card_teenage_villager_description	Dünya ayaklarının altında	
+card_teenage_villager_name	Genç köylü	
+card_throwing_tomatos_description	Kalabalık beğenmedi	
+card_throwing_tomatos_name	Domatesler	
+card_throwing_tomatos_status_0	Domates yapmak	
+card_tomato_description	Kırmızı, yuvarlak, fırlatması eğlenceli	
+card_tomato_name	Domates	
+card_tomato_plant_description	Sadece kırmızı kısımlarını ye	
+card_tomato_plant_name	Domates bitkisi	
+card_tomato_plant_status	Domates toplamak	
+card_unhappiness_description	Köylüleri üzer##Her Üzüntü kartı için fazladan 1 Mutluluğa ihtiyacın var	
+card_unhappiness_name	Üzüntü	
+card_university_description	Bilgelik yeri. Her [max_count] Coin bağışında yeni bir Fikir verir.	
+card_water_description	Islak sıvı	
+card_water_name	Su	
+card_water_status_0	Su almak	
+card_wheat_description	İnsanlar için ot, hayvanlar için cennet	
+card_wheat_name	Buğday	
+card_whip_description	Yakın dövüş mü menzilli mi? Kim bilir	
+card_whip_name	Kırbaç	
+card_wine_description	Bu üzüm suyu garip hissettiriyor	
+card_wine_name	Şarap	
+card_wine_status_0	Şarap yapmak	
+card_winter_coat_description	Kışın harika	
+card_winter_coat_name	Kışlık Palto	
+card_winter_coat_status_0	Kışlık Palto yapmak	
+card_wishing_well_description	Her [count] coin için bir dilek verir	
+card_wool_dress_description	Etkileyici elbise	
+card_wool_dress_name	Şık Elbise	
+card_wool_dress_status_0	Şık Elbise yapmak	
+card_wool_socks_description	Üzerlerinde küçük kedi patileri var!	
+card_wool_socks_name	Mor Çorap	
+card_wool_socks_status_0	Mor Çorap yapmak	
+cardtype_happiness	Mutluluk	
+cardtype_spirits	Ruhlar & Lanetler	
+credits_cyber	Mod desteği	
+cursetype_death	Ölüm	
+cursetype_greed	Açgözlülük	
+cursetype_happiness	Mutluluk	
+cutscene_death_end_text_0	Yeni bir paketin kilidini açtın!	
+cutscene_death_end_text_1	Duyduğuma göre bu pakette lanetimi çözecek bir şey var	
+cutscene_death_middle_text_0	Bir köylü yaşlılıktan öldü galiba	
+cutscene_death_middle_text_1	Her zaman üzücüdür. Benimle güvende.	
+cutscene_death_middle_text_2	Yeni köylüler almadan hepsi ölmesin	
+cutscene_greed_end_text_0	Ejderha Yumurtası mı? Başına neler gelecek bilmiyorum	
+cutscene_greed_middle_text_0	Bu Açgözlü Kral her şeyi isteyebileceğini sanıyor...	
+cutscene_greed_middle_text_1	İstekleri yakında sonunu getirecek	
+cutscene_happiness_end_text_0	Lanetin nasıl kalkacağını buldum	
+cutscene_happiness_end_text_1	3 Coşku ile Üzüntü Lanetini birleştir	
+cutscene_happiness_end_text_2	İşte fikri	
+cutscene_happiness_middle_text_1	Daha fazla Mutluluk bulursak Üzüntü Lanetini kaldırabiliriz	
+demand_fancy_dress_start_text	Bu elbiseyi çok güzel birine vereceğim!	
+demand_fancy_dress_success_text	Elbise mükemmel bir hediye oldu, bayıldı! Hep harika fikirlerim var!	
+greed_quest_demand_description_not_found	Kraliyet Danışmanım neye ihtiyacım olduğunu anlatacak	
+greed_quest_demand_failed	İsteklerimi yerine getirmedin!	
+greed_quest_demand_failed_2	Bu ne? İstediğimi getirmemişsin	
+greed_quest_demand_failed_3	Talebim çok açıktı ama mal yok	
+greed_quest_demand_success	Teşekkürler. Bunu yapabileceğini bilmiyordum	
+greed_quest_demand_success_2	Ah, tam ihtiyacım olan!	
+greed_quest_demand_success_3	Harika! Tam siparişim gibi	
+greed_quest_demand_title	Kraliyet İstekleri!	
+idea_altar_status_0	Sunak inşa etmek	
+idea_death_curse_fix_description	Ölüm Lanetini kaldırır	
+idea_death_curse_fix_name	Ölüm Lanetini kaldır	
+idea_death_curse_fix_status_0	Ölüm Laneti kaldırılıyor	
+idea_flour_mill_status_0	Değirmen inşa etmek	
+idea_flour_status_0	Buğday öğütmek	
+idea_greed_curse_fix_description	Açgözlülük Lanetini kaldırır	
+idea_greed_curse_fix_name	Açgözlülük Lanetini kaldır	
+idea_greed_curse_fix_status_0	Açgözlülük Laneti kaldırılıyor	
+idea_growth_status_13	Buğday yetiştirmek	
+idea_growth_status_14	Asma yetiştirmek	
+idea_growth_status_15	Zeytin Ağacı yetiştirmek	
+idea_growth_status_16	Domates Bitkisi yetiştirmek	
+idea_growth_status_17	Ağaç yetiştirmek	
+idea_growth_status_18	Ot yetiştirmek	
+idea_happiness_curse_fix_description	Üzüntü Lanetini kaldırır	
+idea_happiness_curse_fix_name	Lanet Kaldır	
+idea_happiness_curse_fix_status_0	Üzüntü Laneti kaldırılıyor	
+idea_happiness_description	Mutluluk için hızlı ve basit bir yol	
+idea_happiness_name	Mutluluk	
+idea_happiness_result	Mutluluk için hızlı ve basit bir yol	
+idea_happiness_status_0	Paraya hayran kalmak	
+idea_happiness_status_1	Kitap okumak	
+idea_offspring_status_2	Yavru kedi yaratmak	
+idea_oven_status_0	Fırın inşa etmek	
+idea_remove_happiness		
+idea_tavern_status_0	Meyhane inşa etmek	
+idea_unhappiness_status_0	Köylüyü üzmek	
+ideagroup_death	Ölüm	
+ideagroup_greed	Açgözlülük	
+ideagroup_happiness	Mutluluk	
+label_advanced_combat	Oyun İçi Savaş İstatistikleri: [on_off]	
+label_advanced_settings	Gelişmiş Seçenekler	
+label_age_villagers	İyi ki doğdun!	
+label_altar_cutscene_help_false	Onları görmezden gel	
+label_altar_cutscene_help_spirit_false	Tekrar çağırabileceğin zaman beni çağır lütfen	
+label_altar_cutscene_help_spirit_true	Teşekkürler! Dünyama gel	
+label_altar_cutscene_help_true	Yardım et	
+label_altar_cutscene_text	Ben [spirit]’im. Dünyamda bana yardım edebilir misin?	
+label_altar_cutscene_title	Sunak titremeye başlıyor..	
+label_angry_villager	Köylülerinden biri öfkelendi!	
+label_beat_curse_to_unlock	Bu laneti kaldır, böylece yeni bir oyun başlatabilirsin	
+label_buy_dlc_steam	Steam’den satın al	
+label_cardopedia_all	Tüm Kartlar	
+label_cardopedia_forest	Karanlık Orman	
+label_cardopedia_island	Ada	
+label_cardopedia_main	Orijinal	
+label_cardopedia_modded	Modlar	
+label_cardopedia_order	Düzen & Yapı	
+label_cardopedia_spirit	Lanetli Dünyalar	
+label_change_board_disabled_text	Ruhlar Dünyasında dünya değiştiremezsin	
+label_change_board_disabled_title	Seyahat devre dışı	
+label_clicktodrag_enabled	Kolay sürükleme	
+label_clicktodrag_tooltip	Sağ tıkla sürükle, tekrar sağ tıkla bırak.	
+label_death_intro_1	Ölüm Dünyasına hoş geldin	
+label_death_intro_2	Birkaç ayda bir köylüler büyür	
+label_death_intro_3	Yaşlanınca ölürüz..	
+label_death_intro_4	Çok fazla dışkı varsa hastalanırız	
+label_death_intro_5	Laneti kaldırabilir misin?	
+label_death_intro_title	Ölüm laneti mi?	
+label_demand_collected	Haydi bakalım	
+label_demand_collected_2	Anladım! Haydi bakalım	
+label_demand_complete_start	Toplama zamanı! Umarım her şeyin vardır!	
+label_enable_curse_unknown	Lanet ???: Kapalı	
+label_enable_death_curse	Ölüm Laneti: [on_off]	
+label_enable_greed_curse	Açgözlülük Laneti: [on_off]	
+label_enable_happiness_curse	Üzüntü Laneti: [on_off]	
+label_enabled_curses	Aktif Lanetler	
+label_everyone_angry	Köyün tamamen öfkelendi!	
+label_everyone_spirit_world_dead	Ruhlar Dünyasında herkes öldü	
+label_everyone_spirit_world_dead_text	Sunak’a dönülüyor	
+label_everyone_spirit_world_dead_text_retry	Sunak’ı kullanarak bu Ruhlar Dünyasına tekrar gidebilirsin	
+label_final_demand_end_text	Ejderha Yumurtası getiremeyeceğini düşünmüştüm, ama başardın!	
+label_final_demand_end_text_2	*Kabukta çatlak oluşmaya başlıyor*	
+label_final_demand_end_text_3	Bu ne? Benim Ejderha Yumurtamda çatlak mı var? Hemen yenisini getir!	
+label_final_demand_end_text_4	Yumurta yine çatladı...	
+label_final_demand_end_text_5	Yazıklar olsun...	
+label_final_demand_end_text_6	Yumurta kırıldı!	
+label_final_demand_end_text_7	Bir ejderha!	
+label_final_demand_end_text_8	Ejderha büyük bir hamleyle kralı yere serdi	
+label_final_demand_merchant	Bir Tüccar geldi	
+label_final_demand_text	Her şeyim var ama yetmiyor...	
+label_final_demand_text_2	Daha fazla yemek, eğlence ve değerli şey istiyorum!	
+label_final_demand_text_3	Yakın arkadaşım doğum gününde Anka Yumurtası aldı... Daha iyisini istiyorum!	
+label_final_demand_text_4	Kasabada Ejderha Yumurtası satan bir Tüccar var! Bana getir!	
+label_forest_update	Karanlık Orman	
+label_fountain_text	Pınar köylülerinin yaşlanmasını engelledi	
+label_fountain_title	Gençlik Pınarı	
+label_giving_happiness	Mutluluk veriliyor...	
+label_greed_demand_failed_fight	Ders vermem gerek... Muhafızlar!	
+label_greed_demand_failed_first_time	Bu ilk hatan, görmezden geleceğim. Bir daha olmasın!	
+label_greed_intro_1	Açgözlülük Dünyasına hoş geldin	
+label_greed_intro_2	Bu Açgözlü Kral...	
+label_greed_intro_3	Bir sonraki aydan itibaren her istediğini isteyecek	
+label_greed_intro_4	Kralı doyurmazsan Muhafızlarını gönderir	
+label_greed_intro_5	Ondan kurtulmamıza yardım et, laneti kaldıralım!	
+label_greed_intro_title	Açgözlülük Dünyası	
+label_greed_lift_curse	Neyse ki, Ejderha Kraliyet Tacı’nı yemedi	
+label_greed_lift_curse_2	Kraliyet Tacı dünyanın en değerli eşyası...	
+label_greed_lift_curse_3	Ama laneti tac olmadan kaldıramazsın..	
+label_greed_lift_curse_kill_royal	Vay, Kralı öldürdün ve tacı düştü!	
+label_greed_new_villager	Çok yavaş çalışıyorsun...	
+label_greed_new_villager_2	İşte sana yardımcı biri... Haydi git!	
+label_greed_outro_wear_crown	Kraliyet Tacı’nı takamazsın, izin vermem	
+label_happiness_infobox	Ay sonunda köylülerini mutlu tutmak için [required_happiness_count] [happinessicon] gerekir.	
+label_happiness_infobox_warning	Demonları çıkmasın diye [happinessicon] topla!	
+label_happiness_intro_1	Üzüntü Dünyasına hoş geldin	
+label_happiness_intro_2	Her ay köylülerin Mutluluğa ihtiyaç duyar	
+label_happiness_intro_3	Farklı eylemler Mutluluk verir	
+label_happiness_intro_4	Yeterli Mutluluk olmazsa demonlar çıkar	
+label_happiness_intro_5	Laneti kaldırabilir misin?	
+label_happiness_intro_title	Üzüntü Dünyası	
+label_happiness_return_0	Anakara’ya dönmek ister misin?	
+label_happiness_warning	Bir sonraki ay sonunda [count] Mutluluğa ihtiyacın var!	
+label_island_update	Ada	
+label_its_the_spirit	Bu bir ruh!	
+label_magic_lore	Büyük güç aktarır	
+label_magic_title	Büyü Saldırısı	
+label_main_game	Orijinal	
+label_melee_lore	Yakın mesafe ve samimi	
+label_melee_title	Yakın Dövüş Saldırısı	
+label_menu_spirit_title	Lanetli Dünyalar	
+label_menu_spirit_title_locked	Lanetli Dünyalar çıktı!	
+label_missing_cards_text	Koşudaki şu kartlar yüklenemedi, muhtemelen eksik bir moddan dolayı: [missing].##Yine de devam etmek ister misin? Bazı kartlar eksik olabilir.	
+label_missing_cards_title	Eksik Kartlar	
+label_mod_update_type	Modlu Kart	
+label_mods	Modlar	
+label_mods_enable_title	Modları Aç/Kapat	
+label_name_villager_text	Fazla bağlanma!	
+label_new_villager	Yeni bir köylü	
+label_new_villager_death	Yalnız bir köylü köyüne yerleşmeye karar verdi	
+label_new_villager_happiness	Mutlu köyünü duyan yeni bir köylü buraya yerleşti!	
+label_not_everyone_happy	Bazı köylüler yeterince Mutluluk alamadı...	
+label_open_workshop	Atölye Aç	
+label_random_name	Rastgeleleştir	
+label_ranged_lore	Uzaktan saldırı	
+label_ranged_title	Menzilli Saldırı	
+label_return_from_spirit_world_text	Bu Ruhlar Dünyasından çıkmak istediğine emin misin? Çıkınca dünya sıfırlanır.	
+label_return_from_spirit_world_title	Geri dönülüyor...	
+label_sadness_demon_text	Çok fazla Üzüntün var!	
+label_sadness_demon_title	Üzüntü İblisi ortaya çıktı	
+label_screenshake_enabled	Ekran sarsıntısı etkin	
+label_shaman_appeared	Bir Şaman ansızın ortaya çıktı	
+label_shaman_intro	Bir gariplik var	
+label_shaman_leaving_text	Şaman bildiği her şeyi anlattı, bu dünyadan ayrılacak	
+label_shaman_leaving_title	Şaman ayrılıyor	
+label_spirit_dlc_not_installed_text	Lanetli Dünyalara erişmek için DLC’yi al	
+label_spirit_dlc_not_installed_title	Lanetli Dünyalar DLC	
+label_spirit_outro_1	Yardım ettiğin için teşekkürler	
+label_spirit_outro_2	Artık eski dünyana dönebilirsin	
+label_spirit_outro_3	Geri götürmemi istediğin her şeyi üstüme koy...	
+label_spirit_outro_4	...ve seni geri götüreceğim	
+label_spirit_outro_choice_0	Buradan devam et	
+label_spirit_outro_choice_1	Anakara’ya dön	
+label_spirit_update	Ruh Güncellemesi	
+label_time_infobox	Mevcut zaman. Bu ayda [time_left] kaldı.##[action_time_pause] ile duraklatabilir veya [action_time_toggle] ile oyun hızları arasında geçiş yapabilirsin	
+label_try_attack_royal_description	Dikkatli ol...	
+label_try_attack_royal_description_4	Sonsuza dek dost olmayacak...	
+label_try_attack_royal_description_8	Son uyarı!	
+label_try_attack_royal_title	Kralı öfkelendir	
+label_update_text_spirit	Lanetli Dünyalar DLC’yi satın aldığın için teşekkürler!##Köylülerin zor lanetlerle uğraştığı üç farklı dünyaya seyahat et! Köyünü geliştir, sonra laneti kaldırmak için yeni kartlar ve kart paketleri kullan!##<i>DLC içeriğine ilk boss savaşını tamamladıktan sonra erişilebilir.</i>	
+label_update_text_spirit_locked	İlk Stacklands DLC’si çıktı! Zor lanetlerle uğraşan köylülerin olduğu üç farklı dünyaya seyahat et! Köyünü geliştir, sonra laneti kaldırmak için yeni kartlar ve kart paketleri kullan!##â€¢ 130+ yeni kart#â€¢ 50+ yeni görev#â€¢ 15 yeni kart paketi#â€¢ 3-5 saat oynanış 	
+label_update_title_spirit	Lanetli Dünyalar	
+label_villager_age_birthday	Bazı köylüler yaşlandı	
+label_villager_age_description	<one>Yaş: 1 Ay<other>Yaş: [age] Ay	
+label_villager_food_poisoning	[villager] gıda zehirlenmesi geçirdi...	
+label_villager_old	Yaşlı [villager]	
+label_villager_old_age_death	[villager] yaşlılıktan öldü	
+label_villager_sick	[villager] hastalandı...	
+label_villager_young	Genç [villager]	
+label_wow	Vay canına!	
+pack_death_animals_text	Hayvan Yaşamı	
+pack_death_basic_text	Günlük Yaşam	
+pack_death_ideas_1_text	Hayat Bilgeliği	
+pack_death_ideas_2_text	Derin Düşünceler	
+pack_death_intro_text	Hayat Kısa	
+pack_death_locations_text	Son	
+pack_greed_basic1_text	Saf Açgözlülük	
+pack_greed_food_creatures_text	Asil Yaratıklar	
+pack_greed_ideas1_text	Kraliyet Mucidi	
+pack_greed_ideas2_text	Avlu Aletleri	
+pack_greed_intro_text	Açgözlü Giriş	
+pack_greed_luxuries_text	Kraliyet Lüksleri	
+pack_happiness_creatures_text	Mutlu Hayvanlar	
+pack_happiness_food_text	Ruh Yemeği	
+pack_happiness_ideas1_text	Mutlu Düşünceler	
+pack_happiness_ideas2_text	Mutlu Son	
+pack_happiness_intro_text	Mutlu Başlangıç	
+pack_happiness1_text	Basit Hayat	
+quest_3_succesfull_demands_text	3 isteği tamamla	
+quest_5_succesfull_demands_text	5 isteği tamamla	
+quest_8_succesfull_demands_text	8 isteği tamamla	
+quest_create_altar_text	Sırra erişmek için Şaman ile konuş	
+quest_death_befriend_cat_text	Bir Kediyle Arkadaş Ol	
+quest_death_breed_cow_text	Bir İnek Çiftleştir	
+quest_death_build_lumbercamp_text	Oduncu Kampı İnşa Et	
+quest_death_build_outhouse_text	Tuvalet İnşa Et	
+quest_death_create_fountain_of_youth_text	Gençlik Pınarı İnşa Et	
+quest_death_cure_sick_villager_text	Hastalığı İyileştir	
+quest_death_explore_ruins_text	Harabe Keşfet	
+quest_death_find_cure_text	Laneti kaldırmayı çöz	
+quest_death_find_fix_text	Ölüm Lanetini kaldır	
+quest_death_have_3_cows_text	3 İnek sahibi ol	
+quest_death_have_3_poop_text	3 Dışkı sahibi ol	
+quest_death_make_cheese_text	Peynir Yap	
+quest_death_name_villager_text	Bir köylüye isim ver	
+quest_death_second_villager_text	İkinci bir köylü al	
+quest_death_third_villager_text	Geç kalmadan bebek yap...	
+quest_death_unlock_packs_text	Tüm Paketlerin Kilidini Aç	
+quest_death_villager_old_age_dead_text	Bir köylü yaşlılıktan ölsün	
+quest_death_villager_old_text	Yaşlı bir köylün olsun	
+quest_enter_death_world_text	Ölüm Dünyasını ziyaret et	
+quest_enter_greed_world_text	Açgözlülük Dünyasını ziyaret et	
+quest_enter_happiness_world_text	Üzüntü Dünyasını ziyaret et	
+quest_fight_royal_guard_text	Kraliyet Muhafızlarıyla savaş	
+quest_find_death_world_text	Ölüm Ruhunu nasıl çağıracağını bul	
+quest_find_greed_world_text	Açgözlülük Ruhunu nasıl çağıracağını bul	
+quest_find_happiness_world_text	Üzüntü Ruhunu nasıl çağıracağını bul	
+quest_first_demand_text	Kralın ilk isteğini bekle	
+quest_get_grape_text	İlk üzümünü hasat et	
+quest_greed_brickyard_text	Tuğla Fırını inşa et	
+quest_greed_find_fix_text	Açgözlülük Lanetini kaldır	
+quest_greed_garden_text	Bahçe inşa et	
+quest_greed_lumbercamp_text	Oduncu Kampı inşa et	
+quest_greed_mine_text	Maden inşa et	
+quest_greed_oak_barrel_text	Varil yap	
+quest_greed_olive_oil_text	Zeytinyağı yap	
+quest_greed_quarry_text	Taş Ocağı inşa et	
+quest_greed_roasted_meat_text	Et kızart	
+quest_greed_sawmill_text	Testere Atölyesi inşa et	
+quest_greed_smelter_text	Eritme Ocağı inşa et	
+quest_greed_stomping_vat_text	Ezme Kabı inşa et	
+quest_greed_wine_text	Üzümden şarap yap	
+quest_greed_wool_text	Koyundan yün al	
+quest_happiness_admire_a_coin_text	Bir Coin’e hayran ol	
+quest_happiness_all_packs_text	Tüm Mutluluk Paketlerini aç	
+quest_happiness_bake_bread_text	Ekmek yap	
+quest_happiness_bake_pizza_text	Pizza yap	
+quest_happiness_build_charity_text	Hayır Kurumu inşa et	
+quest_happiness_build_garden_text	Bahçe inşa et	
+quest_happiness_build_museum_text	Müze inşa et	
+quest_happiness_build_tavern_text	Meyhane inşa et	
+quest_happiness_create_flour_text	Un üret	
+quest_happiness_find_fix_text	Üzüntü Lanetini kaldır	
+quest_happiness_get_2_happiness_text	2 Mutluluk sahibi ol	
+quest_happiness_have_1_unhappiness_text	1 Üzüntü sahibi ol	
+quest_happiness_have_10_unhappiness_text	10 Üzüntü sahibi ol	
+quest_happiness_have_5_unhappiness_text	5 Üzüntü sahibi ol	
+quest_happiness_make_dough_text	Hamur yap	
+quest_open_death_intro_pack_text	Paketi aç	
+quest_open_happiness_intro_pack_text	Paketi aç	
+quest_open_pack_text	İlk paketini aç	
+questgroup_death_mainquest	Hayat ve ölüm	
+questgroup_death_misc	Ölüm Çeşitli	
+questgroup_death_starter	Ölüm Dünyası	
+questgroup_discover_spirits	Şamanla tanış	
+questgroup_greed_mainquest	Her şeyi bana ver!	
+questgroup_greed_misc	Krallığa layık eşyalar	
+questgroup_greed_starter	Açgözlülük Dünyası	
+questgroup_greed_thriving	Layık Krallık	
+questgroup_happiness_collecting	Eğlenceli Şeyler	
+questgroup_happiness_cooking	Güzel Yemek	
+questgroup_happiness_mainquest	Mutlu tut	
+questgroup_happiness_starter	Üzüntü Dünyası	
+questgroup_happiness_unhappy	Çok Üzgün	
+specialhit_anxious_long	[chance]% ihtimalle [target] endişelendirir	
+statuseffect_angry_description	Öfkeli köylüler diğer köylülere saldırır	
+statuseffect_angry_lore	Çok uzun süre üzgün kaldı	
+statuseffect_angry_name	Öfkeli	
+statuseffect_anxious_description	Çalışma hızını çok düşürür	
+statuseffect_anxious_lore	Kendini huzursuz hissediyorlar	
+statuseffect_anxious_name	Endişeli	
+statuseffect_demand_description	Birkaç ayda bir yeni kart ister	
+statuseffect_demand_lore	Her zaman daha fazlasını ister	
+statuseffect_demand_name	Açgözlü	
+statuseffect_sick_description	[damage] hasarı her [time] verir	
+statuseffect_sick_lore	Kendilerini hasta hissediyorlar... Çok fazla dışkı var!	
+statuseffect_sick_name	Hasta	
+label_shaman_intro_demon	Demonu yendin, Küçük Tekne fikrini aldın	
+label_shaman_intro_island	Köyünü geliştirmeye devam etmek istersen, Adayı ziyaret edebilirsin	
+label_beta_thanks	Teşekkürler!	
+label_beta_text	Lanetli Dünyalar DLC’sini test ettiğin için teşekkürler!##Direkt yeni içeriğe atlamak istersen, Demon yenildikten sonra başlayan Continue Run’ı seçebilirsin. Yeni bir oyun başlatmak için Start New Run’ı seçebilirsin.##Eski bir kaydı kullanmak istersen, şu klasöre kopyala:#[saveDirectory]###İyi eğlenceler! Herhangi bir sorun olursa Stacklands Playtesters Discord’da bildir!	
+label_shaman_intro_cursed	Lanetli Dünyalara gitmeyi öğrenmek istersen benimle konuşabilirsin	
+label_shaman_intro_title	Şaman	
+card_cursed_wand_name	Lanetli Değnek	
+card_cursed_wand_description	Kara büyü kullanır	
+label_magic_description	Büyü, Menzilliye karşı güçlü, Yakın Dövüşe karşı zayıf	
+label_melee_description	Yakın Dövüş, Büyüye karşı güçlü ama Menzilliye karşı zayıf	
+label_ranged_description	Menzilli, Yakın Dövüşe karşı güçlü ama Büyüye karşı zayıf	
+label_different_mods	Bu kayıt dosyası yüklü olanlardan farklı modlar kullanıyor. Modları tamamen yüklemek için oyunun yeniden başlatılması gerekir.	
+label_debug_need_villagers	Köylü Gerekmiyor: [on_off]	
+label_restart_required	Yeniden Başlatma Gerekli	
+label_restart 	Yeniden Başlat	
+card_industrial_revolution_name	Sanayi Devrimi	
+card_industrial_revolution_description	25 fazlalık yiyecek Sanayi Devrimi’ni başlatır!	
+card_ore_deposit_name	Cevher Ocağı	
+card_ore_deposit_description	Cevher Deposu	
+card_worker_name	İşçi	
+card_educated_worker_name	Eğitimli İşçi	
+card_worker_description	9’dan 5’e çalışıyor	
+card_educated_worker_description	Akıllı çalış, çok çalışmak gerekmez	
+card_lumber_deposit_name	Odun Deposu	
+card_lumber_deposit_description	Birlikte odun toplar	
+card_ore_deposit_status	Cevher Madenciliği	
+card_lumber_deposit_status	Odun Toplama	
+card_farmland_name	Tarım Arazisi	
+card_farmland_description	Hasat edildiğinde Tahıl verir	
+card_farmland_status	Yiyecek Ekim	
+card_muesli_name	Müsli	
+card_muesli_description	Tahıllı kahvaltı: geleceğin yiyeceği	
+pack_cities_ideas_text	Modern Çözümler	
+pack_cities_basics_text	Değerli Kaynaklar	
+card_industrial_smelter_name	Sanayi Eritme Ocağı	
+card_industrial_smelter_description	Cevher eritmek için kullanılır	
+card_industrial_smelter_status_0	Sanayi Eritme Ocağı inşa ediliyor	
+card_apartment_name	Apartman	
+card_apartment_description	Ucuz işçi barınma	
+card_apartment_free_space	Şu an [free] boş yer var	
+card_apartment_status_0	Apartman inşa ediliyor	
+card_water_wheel_name	Su Çarkı	
+card_water_wheel_description	Sudan enerji üretir	
+card_water_wheel_status_0	Su Çarkı inşa ediliyor	
+card_copper_ore_name	Bakır Cevheri	
+card_copper_ore_description	Turuncu taş	
+card_copper_bar_name	Bakır Çubuğu	
+card_copper_bar_description	Gelişmiş bina yapımında kullanılır	
+card_lightning_name	Şimşek	
+card_lightning_description	Cevherleri anında eritebilir	
+card_rain_name	Yağmur	
+card_rain_description	Su için hasat edilir	
+card_sunshine_name	Güneş ışığı	
+card_sunshine_description	Güneş kremi lazım!	
+card_wind_name	Rüzgar	
+card_wind_description	Keşke enerjisi kullanılabilseydi...	
+card_water_pump_name	Su Pompası	
+card_water_pump_description	Yerden su çeker	
+card_water_pump_status	Su Pompası çalışıyor	
+card_water_pump_status_0	Su Pompası inşa ediliyor	
+card_energy_status_0	Enerji Üretiliyor	
+cardtype_energy	Enerji	
+label_debug_no_energy	Enerji kullanılmıyor: [on_off]	
+statuseffect_no_energy_description	Bu cihaz Enerjiye ihtiyaç duyar. Enerji Görünümüne geçip ağa bağla.	
+statuseffect_no_energy_lore	BzZZzzZZz	
+statuseffect_no_energy_name	Enerji gerekli	
+pack_cities_intro_text	Sanayi Devrimi	
+statuseffect_no_workers_description	Bu binada yeterli işçi yok	
+statuseffect_no_workers_lore	İşgücü eksikliği mi?	
+statuseffect_no_workers_name	İşçi gerekli	
+card_passive_energy_consumer_status	Enerji Tüketiliyor	
+card_plastic_name	Plastik	
+card_plastic_description	Farkında olmadan her yerde olacak	
+card_plastic_status_0	Plastik yapmak	
+label_worker_inventory	İşçiler	
+label_wellbeing	İyilik Hali	
+card_gravel_deposit_name	Çakıl Deposu	
+card_gravel_deposit_description	Çakıl birikintisi	
+card_gravel_deposit_status	Çakıl toplama	
+card_water_deposit_name	Su Deposu	
+card_water_deposit_description	Büyük su birikintisi	
+card_water_deposit_status	Su toplama	
+card_cement_name	Çimento	
+card_cement_description	Yapı karışımı	
+card_cement_status_0	Çimento karıştırma	
+card_lumber_name	Kereste	
+card_lumber_description	Temel yapı malzemesi	
+card_lumber_status_0	Kereste kesimi	
+card_ten_dollar_name	10[icon]	
+card_ten_dollar_description	Bir onluk	
+card_dollar_status_0	Para dönüştürme	
+card_twenty_dollar_name	20[icon]	
+card_twenty_dollar_description	Yirmi dolar	
+card_fifty_dollar_name	50[icon]	
+card_fifty_dollar_description	50 centten fazla	
+card_hundred_dollar_name	100[icon]	
+card_hundred_dollar_description	Aya doğru!	
+pack_cities_deposit_text	Kaynak Deposu	
+quest_cities_welcome_text	Şehre hoş geldin	
+quest_cities_open_pack_text	İlk Şehir Paketini aç	
+quest_cities_make_shack_text	İşçiler için Baraka yap	
+questgroup_cities_starter	Şehrini başlat	
+label_wellbeing_infobox_miserable	Vatandaşlar çok mutsuz! Durumu düzelt, yoksa şehri kaybedersin...	
+label_wellbeing_infobox_unhappy	Vatandaşlar mutsuz! Anıtlar inşa ederek iyilik halini artır	
+label_wellbeing_infobox_euphoric	Vatandaşlar coşkulu!	
+label_wellbeing_infobox_happy	Vatandaşlar mutlu	
+label_wellbeing_infobox_normal	Vatandaşlar nötr	
+label_wellbeing_infobox_gameover	Şehir harap	
+card_worker_homeless_text	Evsiz	
+card_creditcard_name	Kredi Kartı	
+card_creditcard_description	Para saklama	
+card_creditcard_status_0	Kredi Kartı oluşturma	
+questgroup_cities_automation	Düzenli tut	
+card_creditcard_description_long	Para tutan kart. Etkileşimle para çek. İçinde [count]/[max_count][icon] var	
+card_pollution_name	Kirlilik	
+card_pollution_description	Kötü koku bırakır	
+quest_cities_make_treadmill_text	Hamster Çarkı Yap	
+label_city_state_euphoric	Coşkulu	
+label_city_state_happy	Mutlu	
+label_city_state_normal	Normal	
+label_city_state_unhappy	Mutsuz	
+label_city_state_miserable	Berbat	
+label_city_state_gameover	Oyun Bitti	
+statuseffect_homeless_description	Bu İşçi evsiz. Ay sonunda ev bulmazsan iyilik halini kaybedersin	
+statuseffect_homeless_lore	Sokakta...	
+statuseffect_homeless_name	Evsiz	
+card_lightning_status	Cevher eritme	
+card_rain_status	Su toplama	
+card_grain_name	Tahıl	
+card_grain_description	Yiyecek için temel malzeme	
+card_factory_name	Fabrika	
+card_factory_description	Modern çağın kalbi	
+card_factory_status_0	Fabrika inşa ediliyor	
+card_muesli_status_0	Müsli hazırlama	
+quest_cities_get_farmland_text	Tarım Arazisi inşa et	
+pack_cities_weather_text	Vahşi Hava	
+label_weather_report_text	Son dakika: değişen hava koşulları...	
+label_weather_report_title	Şehir Haberleri	
+card_factory_parts_name	Fabrika Parçaları	
+card_factory_parts_description	Büyük makinenin küçük bir parçası	
+card_factory_parts_status_0	Fabrika Parçaları inşa ediliyor	
+quest_cities_build_basic_factory_text	Fabrika Parçaları üretme	
+card_science_name	Bilim	
+card_science_description	Bilimsel yöntemin sonucu	
+card_science_status_0	Bilim oluşturma	
+card_uranium_name	Uranyum	
+card_uranium_description	Dikkatli taşı!	
+card_oil_name	Petrol	
+card_oil_description	Kötü dinozor sıvısı	
+card_oil_rig_name	Petrol Kulesi	
+card_oil_rig_description	Petrol çıkarmak için enerji kullanır	
+card_oil_rig_status_0	Petrol Kulesi inşa ediliyor	
+card_oil_rig_status_1	Petrol çıkarmak	
+card_oil_power_plant_name	Petrol Santrali	
+card_oil_power_plant_description	Petrolden enerji üretir	
+card_oil_power_plant_status_0	Petrol Santrali inşa ediliyor	
+card_nuclear_power_plant_name	Nükleer Santral	
+card_nuclear_power_plant_description	Uranyumdan enerji üretir	
+card_nuclear_power_plant_status_0	Nükleer Santral inşa ediliyor	
+card_farmland_status_0	Tarım Arazisini sulama	
+card_farmland_status_1	Tarım Arazisi inşa ediliyor	
+label_toggle_worker_space	Binadaki İşçileri göster	
+label_worker	İşçiler	
+card_wind_turbine_name	Rüzgar Türbini	
+card_wind_turbine_description	Otomatik enerji üretir	
+card_wind_turbine_status_0	Rüzgar Türbini inşa ediliyor	
+card_electric_motor_name	Elektrik Motoru	
+card_electric_motor_description	Mıknatıslar dönüyor	
+card_electric_motor_status_0	Elektrik Motoru inşa ediliyor	
+card_city_hall_name	Belediye	
+card_city_hall_description_old	Her 10 para için Kart Limiti artırır	
+card_city_hall_status_0	Belediye inşa ediliyor	
+card_automatic_resources_name	Otomatik Kaynaklar	
+card_automatic_resources_description	Sonsuz otomasyon	
+card_lumber_mill_name	Ağaç Dikimi	
+card_lumber_mill_description	Sonsuz kereste kaynağı	
+card_lumber_mill_status_0	Ağaç Dikimi inşa ediliyor	
+card_lumber_mill_status	Odun toplama	
+card_gravel_pit_name	Çakıl Ocağı	
+card_gravel_pit_description	Sonsuz çakıl kaynağı	
+card_gravel_pit_status_0	Çakıl Ocağı inşa ediliyor	
+card_gravel_pit_status	Çakıl madenciliği	
+card_ore_mine_status	Cevher madenciliği	
+card_automatic_resources_rumor_name	Çıkarma	
+card_automatic_resources_rumor_description	Bir Depo, Fabrika Parçası ve İşçiyi birleştir.##Örneğin, Odun Deposu ile Ağaç Dikimi yaparsın	
+cutscene_cities_first_moon_title	Bir ay geçti	
+cutscene_cities_first_moon_text_0	İlk ay geçti, şehrin iyilik hali güncellendi	
+cutscene_cities_first_moon_text_1	Amacın şehrin iyilik halini artırmak. Çok düşerse şehri kaybedersin...	
+label_end_of_moon_cities_gained	Bu ay [amount] [icon] kazandın	
+label_end_of_moon_cities_same	Bu ay [icon] aynı kaldı	
+label_end_of_moon_cities_lost	Bu ay [amount] [icon] kaybettin	
+label_end_of_moon_cities_wellbeing	İyilik Hali	
+label_dollar	Para	
+label_dollar_infobox	Şu anda [amount] [icon] var	
+label_requirement_take_card	Şehirde [amount]x [card] var:	
+label_requirement_take_dollars	Şehirde [amount] Para var:	
+label_requirement_take_food	Kullanılan [amount] Yiyecek:	
+label_requirement_has_housing	Barınma var:	
+card_metal_scraps_name	Metal Parçalar	
+card_metal_scraps_description	Paslı metal parçaları	
+card_storage_container_name	Depolama Kabı	
+card_storage_container_description	Kaynakları saklamak için yer. İçindeki kartlar Kart Limitine sayılmaz	
+card_storage_container_status_0	Depolama Kabı inşa ediliyor	
+card_treadmill_name	Hamster Çarkı	
+card_treadmill_description	Çalışarak enerji üretir	
+card_treadmill_status_0	Hamster Çarkı inşa ediliyor	
+card_fancy_apartment_name	Lüks Apartman	
+card_cinema_name	Sinema	
+card_cinema_description	Gerçek sinema	
+card_cinema_status_1	Film oynatılıyor	
+card_cinema_status_0	Sinema inşa ediliyor	
+statuseffect_max_on_board_description	Bu anıtı zaten yaptın	
+statuseffect_max_on_board_lore	Daha fazlasına ihtiyacımız yok!	
+statuseffect_max_on_board_name	Maksimuma ulaşıldı	
+pack_cities_ideas_2_text	Gelişmiş Otomasyon	
+quest_cities_automatic_resources_text	Ağaç Dikimi yap	
+quest_cities_get_oil_text	Petrol çıkar	
+quest_cities_refine_oil_text	Plastik yap	
+quest_cities_industrial_smelter_text	Sanayi Eritme Ocağı yap	
+card_tornado_name	Tornado	
+card_tornado_description	Yakındaki binalara zarar verir	
+card_wildfire_name	Orman Yangını	
+card_wildfire_description	Binaları ateşe verir	
+card_recycling_center_name	Geri Dönüşüm Merkezi	
+card_recycling_center_description	Zamanla kirliliği azaltır	
+card_recycling_center_status_0	Geri Dönüşüm Merkezi inşa ediliyor	
+card_recycling_center_status_1	Kirli malzemeleri geri dönüştürme	
+card_landfill_name	Çöplük	
+card_landfill_description	Şehirden kirliliği kaldırır	
+card_landfill_description_long	Şehirden kirliliği kaldırır. Şu anda [current] kirlilik var	
+card_landfill_status_0	Çöplük inşa ediliyor	
+label_requirement_has_pollution	Her [amount] kirlilikte:	
+cutscene_cities_landfill_overflow_title	Çöplük taşıyor!	
+cutscene_cities_landfill_overflow_text_0	Aşırı doldurdun galiba...	
+cutscene_cities_landfill_overflow_text_1	Bir süre kullanılamaz...	
+card_overflowing_landfill_name	Taşan Çöplük	
+card_overflowing_landfill_description	Biraz iğrenç	
+card_storage_container_name_override	[resource] Kabı	
+card_storage_container_description_long	[amount] [resource] içeren Kutu	
+cutscene_cities_disaster_title	Vay!	
+cutscene_cities_disaster_text_0	Bir felaket oldu	
+cutscene_cities_disaster_text_1	Felaketler oyunu farklı şekillerde etkiler	
+cutscene_cities_disaster_text_2	İyi şanslar!	
+card_academy_name	Akademi	
+card_academy_status_0	Akademi inşa ediliyor	
+card_academy_status	İşçi eğitimi	
+card_trash_name	Çöp	
+card_trash_description	Çöp karıştırma zamanı	
+card_trash_status_1	Çöp karıştırma	
+label_requirement_on_active_board	Şehirde:	
+label_requirement	Gereksinimler	
+statuseffect_no_educated_workers_description	Bu bina yeterli Eğitimli İşçiye sahip değil	
+statuseffect_no_educated_workers_lore	Zor bir iş, ama birinin yapması lazım!	
+statuseffect_no_educated_workers_name	Eğitimli İşçi gerekli	
+card_genius_name	Dahi	
+card_genius_description	IQ’su 538 olduğu söyleniyor	
+card_particle_collider_name	Parçacık Çarpıştırıcı	
+card_particle_collider_description	Çok yüksek hızda parçacık çarpıştırır	
+card_particle_collider_status_0	Parçacık Çarpıştırıcı inşa ediliyor	
+card_particle_collider_status_1	Parçacık çarpıştırma	
+card_ufo_event_name	Düşen UFO	
+card_ufo_event_description	Hükümet saklamaya çalıştı	
+cutscene_cities_event_ufo_title	Kaza	
+cutscene_cities_event_ufo_text_0	Tanımlanamayan bir cisim...	
+cutscene_cities_event_ufo_text_1	Teknolojisini çözebilirsin...	
+card_quantum_entangled_uranium_name	Kuantum Madde	
+card_quantum_entangled_uranium_description	Özel makinelerde kullanılan, çok dengesiz kaynak	
+card_quantum_entangled_uranium_status_0	Uranyum dolanıyor	
+statuseffect_dissolving_description	Bu kaynak zamanla çözülür	
+statuseffect_dissolving_lore	Çok dengesiz	
+statuseffect_dissolving_name	Çözülüyor	
+card_time_machine_name	Bilinmeyen Makine	
+card_time_machine_description	Ne olduğunu anlamak için çok şarj gerek	
+card_time_machine_status_0	Bilinmeyen Makine inşa ediliyor	
+label_cardopedia_cities	2000	
+cardtype_event	Olaylar	
+cardtype_disaster	Felaketler	
+cardtype_weather	Hava Durumu	
+card_ufo_event_status_1	Bilim kazanma	
+card_gravel_name	Çakıl	
+card_gravel_description	Kaba kum	
+pack_cities_oil_text	Kara Altın	
+label_air_title	Hava	
+label_foot_title	Piyade	
+label_armour_title	Zırh	
+label_air_description	Hava Araçları, Zırhlı Araçlara karşı iyidir	
+label_foot_description	Piyade, Hava Araçlarına karşı iyidir	
+label_armour_description	Zırhlı Araçlar, Piyadeye karşı iyidir	
+label_air_lore	Hız ihtiyacı hissediyorum	
+label_foot_lore	Dikkat... Dur!	
+label_armour_lore	Paletler ve Lastikler	
+card_goblin_fighter_jet_name	Goblin Savaş Uçağı	
+card_goblin_fighter_jet_description	Goblinler artık uçabiliyor mu? Peki.	
+card_tank_name	Tank	
+card_tank_description	Uzun menzilli güvenlik	
+card_tank_status_0	Tank inşa et	
+card_fighter_jet_name	Savaş Uçağı	
+card_fighter_jet_description	Gökyüzünde	
+card_fighter_jet_status_0	Savaş Uçağı inşa et	
+card_goblin_tank_name	Goblin Tankı	
+card_goblin_tank_description	Metal Çılgınlığı	
+card_goblin_soldier_name	Goblin Komando	
+card_goblin_soldier_description	Sinsi küçük tip	
+card_soldier_name	Asker	
+card_soldier_description	Şehri korumak için savaşır!	
+card_soldier_status_0	Asker eğitiliyor	
+card_barrack_name	Kışla	
+card_barrack_description	İşçileri Asker yapar ve araç üretir	
+card_barrack_status_0	Kışla inşa ediliyor	
+label_cities_game_over_title	Şehir harabe	
+label_cities_game_over_text	Vay, şehrin iyilik hali sıfıra düştü	
+label_cities_game_over_text_1	Şehir harabe... Bu şehir kaybedildi	
+card_toy_name	Oyuncak	
+card_toy_description	Rakiplerinden yıllar önde	
+card_toy_status_0	Oyuncak inşa ediliyor	
+quest_cities_barrack_text	Kışla yap	
+card_event_goblin_attack_name	Goblin Çatışması	
+card_event_goblin_attack_description	Goblinler işgal ediyor!	
+card_event_goblin_attack_status_1	Bir Goblin Saldırısı geliyor!	
+questgroup_cities_freedom	Özgürlük	
+questgroup_cities_power	Güçlen	
+quest_cities_soldier_text	Asker eğit	
+quest_cities_tank_text	Tank yap	
+quest_cities_jet_text	Savaş Uçağı yap	
+questgroup_cities_mainquest	Şehri ilerlet	
+quest_cities_power_source_text	Su Çarkı yap	
+quest_cities_fancy_apartement_text	Lüks Apartman inşa et	
+quest_cities_oil_power_text	Petrol Santrali inşa et	
+quest_cities_landfill_text	Çöplük yap	
+quest_cities_particle_collider_text	Parçacık Çarpıştırıcı yap	
+quest_cities_remove_trash_text	Çöpleri kaldır	
+quest_cities_harvest_grain_text	Tahıl hasat et	
+label_requirement_worker_amount_met	İşçi var:	
+card_dollar_split	Para bölme	
+cutscene_cities_wellbeing_20_title	İyilik Hali Haberleri	
+cutscene_cities_wellbeing_20_text	Şehrin iyilik hali artıyor.	
+cutscene_cities_wellbeing_20_text_1	Ama dikkat, iyilik hali arttıkça Goblinler saldırır!	
+cutscene_cities_wellbeing_10_title	İyilik Hali Kritik	
+cutscene_cities_wellbeing_10_text	Şehrin iyilik hali kritik seviyede	
+cutscene_cities_wellbeing_10_text_1	İyilik hali 0 olunca şehir çöker	
+label_sellbox_cities_title	Kartları dışa aktar	
+label_sellbox_cities_description	Kartları buraya sürükle, Para kazan	
+label_sell_cities	Dışa aktar	
+card_cinema_status_2	İşçiler filmi çok sevdi!	
+ideagroup_automation	Otomasyon	
+ideagroup_power	Enerji	
+card_cities_iron_mine_name	Demir Madeni	
+card_cities_iron_mine_description	Demir cevheri madenciliğinde uzman	
+card_cities_iron_mine_status_0	Demir Madeni inşa ediliyor	
+card_copper_mine_name	Bakır Madeni	
+card_copper_mine_description	Bakır cevheri madenciliğinde uzman	
+card_copper_mine_status_0	Bakır Madeni inşa ediliyor	
+card_add_worker_name	İşçi Alımı	
+card_add_worker_description	Bir İşçi almak için Baraka’ya 20 Para koy	
+card_add_worker_status_0	Yeni İşçi alınıyor	
+card_cities_iron_mine_status_1	Demir cevheri madenciliği	
+card_copper_mine_status_1	Bakır cevheri madenciliği	
+pack_cities_smeltables_text	Büyük Metaller	
+card_art_gallery_name	Sanat Galerisi	
+card_art_gallery_description	50 Para’yı Sanat Eserine çevirir	
+card_art_gallery_status_0	Sanat Galerisi inşa ediliyor	
+card_art_gallery_status_1	Sanat Yapma	
+quest_cities_art_gallery_text	Sanat Galerisi Yap	
+label_blueprint_wellbeing	Yeni Tarif hazırlandı	
+label_wellbeing_euphoric	Coşkulu	
+label_wellbeing_happy	Mutlu	
+label_wellbeing_normal	Normal	
+label_wellbeing_unhappy	Mutsuz	
+label_wellbeing_miserable	Berbat	
+label_wellbeing_gameover	Oyun Bitti	
+label_city_wellbeing	Şehir İyilik Hali	
+label_hover_status_wellbeing	İyilik hali kutularının üstüne gel, nedeni öğren	
+label_city_advisor	Şehir Danışmanı	
+label_update_title_cities	Stacklands 2000	
+label_update_text_cities	Stacklands 2000 DLC’yi satın aldığın için teşekkürler!##Sanayi devrimi geldi, küçük kulüben artık büyük bir şehre dönüştü! Şehrin iyiliğini yönet, altyapı bağla, fabrikalarla ileri malzemeler üret, dahası!##<i>DLC içeriğine ana karada yeterli yemek fazlan olduğunda erişebilirsin.</i>	
+label_update_text_cities_locked	Stacklands 2000 DLC çıktı! Sanayi devrimi geldi, küçük kulüben büyük bir şehre dönüştü! Şehrin iyiliğini yönet, altyapı bağla, fabrikalarla ileri malzemeler üret, daha fazlası.##- 180+ yeni kart#- 50+ yeni görev#- 15 yeni kart paketi#- 3-5 saat oynanış	
+label_menu_cities_title	Modern çağ DLC	
+label_menu_cities_title_locked	Modern çağ DLC çıktı!	
+label_cities_dlc		
+card_robot_worker_name	Robot İşçi	
+card_robot_worker_status_0	Robot İşçi inşa ediliyor	
+label_requirement_take_dollars_on_top	Üzerinde [amount] Para var:	
+card_ready_meal_name	Hazır Yemek	
+card_ready_meal_description	Mikroplastik aromalı	
+card_ready_meal_status_0	Yemek paketleme	
+card_landfill_status_1	[amount] Kirliliği kompostlama	
+card_landfill_status_2	Ekolojik felaket çözülüyor...	
+card_collector_name	Kart Toplayıcı	
+card_collector_description	Mıknatıs gibi çalışır	
+card_collector_status_0	Kart Toplayıcı inşa ediliyor	
+card_uranium_mine_name	Uranyum Madeni	
+card_uranium_mine_description	Radyasyonlu, radyasyonlu	
+card_uranium_mine_status_0	Uranyum Madeni inşa ediliyor	
+card_uranium_mine_status_1	Uranyum madenciliği	
+card_uranium_deposit_name	Uranyum Deposu	
+card_uranium_deposit_description	Az miktarda uranyum içerir	
+card_uranium_deposit_status_0	Uranyum toplama	
+quest_cities_academy_text	Akademi yap	
+label_goblin_take_land_title	Goblinler	
+label_goblin_take_land_text	Tahtanda Goblinler var!	
+label_goblin_take_land_text_1	Çatışma dışında her Goblin için iyilik halin düşer	
+label_goblin_conflict_title	Goblin Çatışması	
+label_goblin_conflict_text	Bir grup Goblin şehrine saldırmak için girdi	
+card_radar_station_name	Radar İstasyonu	
+card_radar_station_description	Saldırıları 3 ay önceden algılar	
+card_radar_station_status_0	Radar İstasyonu inşa ediliyor	
+statuseffect_radar_description	Sonraki çatışma ay sonunda olacak: [amount]	
+statuseffect_radar_lore	*bip bip*	
+statuseffect_radar_name	Çatışma algılandı!	
+label_youtube_cities_dlc_title	Stacklands 2000 DLC - erken erişim	
+label_youtube_cities_dlc_text	Bu Stacklands 2000 DLC’nin özel erken erişim sürümü!##Yeni içeriğe hızlı erişmek için hazır kayıt kullanabilirsin.##Mevcut kaydından da devam edebilirsin.##Sıfırdan başlamak istersen, ayarlardan kayıtları sil.	
+card_financial_crisis_name	Finansal Kriz	
+card_financial_crisis_description	Kredi temerrüt takasları ters gitti	
+label_financial_crisis_start	Ekonomide Finansal Kriz başlamak üzere!	
+label_financial_crisis_text	Tam ortasında Finansal Krizdesin - tüm paket fiyatları %150 oldu!	
+card_earthquake_name	Deprem	
+card_earthquake_description	Richter ölçeği 6.3	
+label_earthquake_start	Deprem oluyor!	
+label_cities_earthquake_text	Bazı yapılar hasar aldı...	
+label_cities_earthquake_text_1	Parayla tamir edebilirsin	
+label_cities_earthquake_title	Deprem bu	
+label_damaged_card_cost	Tamir için [amount][icon] kullan	
+label_fire_card_cost	Söndürmek için Su kullan	
+label_cities_wildfire_title	Orman Yangını!	
+label_cities_wildfire_text	Şehirde bir yangın dolaşıyor...	
+label_cities_wildfire_text_1	Söndürmek için Su kullan	
+label_wildfire_start	Yangın Gözcüsü yangın gördü!	
+statuseffect_on_fire_description	Bu kart yanıyor, Su ile söndürülmeli	
+statuseffect_on_fire_lore	Yan bebeğim yan	
+statuseffect_on_fire_name	Yanıyor	
+statuseffect_damaged_description	Bu kart hasarlı, tamir edilmeli	
+statuseffect_damaged_lore	Her yerde enkaz var	
+statuseffect_damaged_name	Hasarlı	
+card_time_machine_status_1	Zaman Makinesi kuruluyor	
+card_city_advisor_name	Şehir Danışmanı	
+card_city_advisor_description	Şehir yönetimi için sana yol gösterir	
+label_debug_battery	Tam dolu Pil üret	
+label_info_worker_space_title	Barınma Alanı	
+label_info_worker_space_text	İşçilerini barındırmak için [workers] [icon] gerekir. Şu anda [space] [icon] var	
+label_info_worker_space_text_1	Daha fazla barınak inşa et, iyilik halini kaybetme.	
+cutscene_cities_first_energy_title	Enerji Kullanımı	
+cutscene_cities_first_energy_text_0	Kullanmak istiyorsan bu binayı ağa bağlaman gerekir	
+cutscene_cities_first_energy_text_1	Enerji Görünümüne üstten gir	
+cutscene_cities_first_energy_text_2	Burada enerji üretenleri, tüketenlere bağlayabilirsin. Örnek:	
+cutscene_cities_first_energy_text_3	Bağlamak için bir konektörü sürükle	
+cutscene_cities_first_energy_text_4	Hepsi bu! Her zaman yeterli enerji üreticisi olduğundan emin ol!	
+card_goblin_war_ship_name	Goblin Savaş Gemisi	
+card_goblin_war_ship_description	Yedi denizde yelken açar	
+card_war_ship_name	Savaş Gemisi	
+card_war_ship_description	Balıkları korur	
+card_war_ship_status_0	Savaş Gemisi inşa ediliyor	
+card_goblin_attack_helicopter_name	Goblin Helikopteri	
+card_goblin_attack_helicopter_description	Goblinler için hava desteği	
+card_attack_helicopter_name	Saldırı Helikopteri	
+card_attack_helicopter_description	Gökyüzündeki göz	
+card_attack_helicopter_status_0	Saldırı Helikopteri inşa ediliyor	
+card_sniper_name	Keskin Nişancı	
+card_sniper_description	Uzak görüşlü asker	
+card_sniper_status_0	Keskin Nişancı eğitiliyor	
+card_goblin_sniper_name	Goblin Nişancısı	
+card_goblin_sniper_description	Uzun tüfekli goblin	
+pack_cities_arms_text	Savunma Bakanlığı	
+card_export_center_name	İhracat Merkezi	
+card_export_center_description	Üzerine koyulan kaynakları para karşılığı satar	
+card_export_center_status_0	İhracat Merkezi inşa ediliyor	
+card_export_center_status_1	Kart dışa aktarılıyor	
+statuseffect_space_description	[amount] barınma alanın kaldı. Her İşçi 1 barınma alanı kullanır.	
+statuseffect_space_lore	Uzay boşluğu	
+statuseffect_space_name	Barınma Alanı	
+card_metal_scraps_status_0	Metal hurda ayıklama	
+cutscene_cities_financial_crisis_title	Finansal Kriz	
+cutscene_cities_financial_crisis_text	Gerilim arttı, küresel piyasa çöktü	
+cutscene_cities_financial_crisis_text_1	Tüm paketler %50 daha pahalı	
+quest_cities_build_mine_text	Bir Cevher Madeni inşa et	
+quest_cities_make_landfill_text	Çöplük inşa et	
+quest_cities_radar_station_text	Radar İstasyonu inşa et	
+label_requirement_has_pollution_landfill	Çöplükte [amount] kirlilikten fazla:	
+card_food_warehouse_name	Yiyecek Ambarı	
+card_food_warehouse_description	Yiyecek depolar	
+card_food_warehouse_status_0	Yiyecek Ambarı inşa ediliyor	
+card_food_warehouse_description_long	[amount] [food] depolar	
+card_food_warehouse_name_long	[yemek] Ambarı	
+label_requirement_needs_healing	Çatışmada hasar aldı:	
+label_toggle_on_off	Aç/Kapat	
+label_on_off	Açık/Kapalı	
+cutscene_cities_start_title	Şehrine hoş geldin	
+cutscene_cities_start_text_0	Merhaba, modern şehre hoş geldin! Ben Şehir Danışmanıyım.	
+cutscene_cities_start_text_1	Arada sırada uğrayıp şehrini yönetmene yardımcı olacağım	
+cutscene_cities_start_text_3	İyi Şanslar	
+statuseffect_depleted_description	Zemin kurudu, sulanması gerek	
+statuseffect_depleted_lore	Kuru toprak	
+statuseffect_depleted_name	Tükenmiş	
+card_rumor_genius_name	Evrika!	
+quest_cities_unlock_oil_text	Kara Altın paketinin kilidini aç	
+card_pack_sale_name	Paket Satışı	
+card_pack_sale_text	Büyük indirim!	
+card_festival_name	Festival	
+card_festival_description	Herkes kutluyor	
+card_festival_text	Parti!	
+pack_cities_industry_text	Etkileyici Endüstri	
+card_stadium_name	Stadyum	
+card_stadium_status_0	Stadyum inşa ediliyor	
+card_stadium_status_1	Şu anda oyun oynanıyor	
+card_display_2000_dlc_name	Stacklands 2000	
+card_display_2000_dlc_description	Stacklands 2000 DLC’sini al, bu kartlara eriş	
+card_rumor_quantum_entangled_uranium_description	İki Uranyum kartını yüksek hızda çarpıştırmak güzel bir kıvılcım çıkarır...	
+card_energy_splitter_name	Enerji Bölücü	
+card_energy_splitter_description	1x Yüksek Voltajı 4x Düşük Voltaja böler	
+card_energy_splitter_status_0	Enerji Bölücü inşa ediliyor	
+card_energy_combiner_name	Enerji Birleştirici	
+card_energy_combiner_description	3x Düşük Voltajı 1x Yüksek Voltaj yapar	
+card_energy_combiner_status_0	Enerji Birleştirici inşa ediliyor	
+label_high_voltage	Yüksek Voltaj	
+label_low_voltage	Düşük Voltaj	
+label_energy_input	Gereksinimler	
+label_energy_output	Çıktılar	
+label_connection_type_output	Çıktı	
+label_connection_type_input	Giriş	
+label_connection_high_voltage	Yüksek Voltaj	
+label_connection_low_voltage	Düşük Voltaj	
+card_robot_station_name	Robot İstasyonu	
+card_robot_station_description	Robot İşçiler için istasyon	
+card_robot_station_status_0	Robot İstasyonu inşa ediliyor	
+quest_cities_first_cable_text	Bir enerji kablosu bağla	
+quest_cities_5_low_power_text	5 düşük voltaj kablosu bağla	
+quest_cities_10_low_power_text	10 düşük voltaj kablosu bağla	
+quest_cities_high_power_text	Bir yüksek voltaj kablosu bağla	
+quest_cities_5_high_power_text	5 yüksek voltaj kablosu bağla	
+quest_cities_lose_wellbeing_text	İlk kez iyilik halini kaybet	
+quest_cities_gain_wellbeing_text	İlk kez iyilik hali kazan	
+quest_cities_gain_5_wellbeing_text	Bir ayda 5 iyilik hali puanı kazan	
+quest_cities_lose_5_wellbeing_text	Bir ayda 5 iyilik hali puanı kaybet	
+quest_cities_40_wellbeing_text	40 iyilik haline ulaş	
+quest_cities_max_wellbeing_text	İyilik halini maksla	
+quest_cities_6_workers_text	6 işçin olsun	
+quest_cities_12_workers_text	12 işçin olsun	
+quest_cities_6_educated_workers_text	6 Eğitimli İşçin olsun	
+quest_cities_genius_text	Bir Dahi eğit	
+quest_cities_full_container_text	Depolama Kabını doldur	
+quest_cities_conveyor_text	Bir Konveyörle kart taşı	
+quest_cities_collector_text	Bir Toplayıcı ile kart topla	
+quest_cities_card_cap_text	Kart limitini artır	
+card_festival_end_text	Festival bitiyor	
+card_park_name	Şehir Parkı	
+card_park_description	Açık hava keyfi	
+card_park_status_0	Şehir Parkı inşa ediliyor	
+label_requirement_has_energy	Enerjisi var:	
+cutscene_cities_first_landmark_title	Anıtlar	
+cutscene_cities_first_landmark_text_0	Anıtlar şehrin iyilik halini artırır	
+cutscene_cities_first_landmark_text_1	Bazı Anıtlar çalışmak için enerji ister - çalışmazsa iyilik hali düşer!	
+card_themepark_name	Lunapark	
+card_themepark_description	Rollercoaster seviyorum	
+card_themepark_status_0	Lunapark inşa ediliyor	
+label_blueprint_wellbeing_generation	İnşa edilince [amount] [icon] verir	
+label_blueprint_pollution_generation	İnşa edilince [amount] [icon] üretir	
+card_villager_statue_name	Köylü Heykeli	
+card_villager_statue_description	Eski köylü ve çalı günlerini hatırlamak için	
+card_villager_statue_status_0	Köylü Heykeli inşa ediliyor	
+card_hospital_name	Hastane	
+card_hospital_description	Sağlık, zenginliktir	
+card_hospital_status_0	Hastane inşa ediliyor	
+card_airport_name	Havaalanı	
+card_airport_description	Tatil zamanı!	
+card_airport_status_0	Havaalanı inşa ediliyor	
+ideagroup_landmark	Anıtlar	
+card_zoo_name	Hayvanat Bahçesi	
+card_zoo_description	Hayvanseverler için	
+card_zoo_status_0	Hayvanat Bahçesi inşa ediliyor	
+card_toy_factory_name	Oyuncakçı	
+card_toy_factory_description	Her türlü koleksiyon eşyası	
+card_toy_factory_status_0	Oyuncakçı inşa ediliyor	
+questgroup_cities_landmark	Anıtlar	
+quest_cities_build_second_landmark_text	İkinci bir Anıt inşa et	
+quest_cities_all_landmarks_text	Tüm Anıtları inşa et	
+cutscene_cities_festival_title	Festival	
+cutscene_cities_festival_text_0	İşçiler festivali çok seviyor!	
+cutscene_cities_pack_sale_title	PAKET SATIŞI!	
+cutscene_cities_pack_sale_text_0	Bir Paket Satışı başladı!	
+card_steam_generator_name	Yakıcı Jeneratör	
+card_steam_generator_description	Keresteyi yakarak Enerji üretir	
+card_steam_generator_status_0	Yakıcı Jeneratör inşa ediliyor	
+cutscene_cities_wellbeing_30_text	Şehir harika görünüyor!	
+cutscene_cities_wellbeing_30_text_1	Şehirde bir söylenti dolaşıyor...	
+label_goblin_info	Çatışma dışında her Goblin için 1 iyilik hali kaybedersin	
+card_laboratory_name	Laboratuvar	
+card_laboratory_description	Bilimin yapıldığı yer	
+card_laboratory_status_0	Laboratuvar inşa ediliyor	
+card_laboratory_status_1	Bilimsel işler yapılıyor	
+label_damaged	Hasarlı	
+label_on_fire	Yanıyor	
+label_connector_info	Bağlamak için konektörü sürükle	
+label_take_time_machine	Zaman Makinesi	
+label_go_to_cities_mainland	Şehre dönmek istediğine emin misin?	
+label_go_to_mainland_cities	Anakaraya dönmek istediğine emin misin?	
+card_time_machine_name_real	Zaman Makinesi	
+card_time_machine_desctiption_real	Seni geçmişe götürür	
+label_recruiting_worker	Yeni İşçi alınıyor	
+card_shack_name	Baraka	
+card_shack_description	Zor yaşanır...	
+card_shack_status_0	Baraka inşa ediliyor	
+card_hydroponic_farm_name	Hidroponik Çiftlik	
+card_hydroponic_farm_description	Su ile daha verimli tarım yapar	
+card_hydroponic_farm_status_0	Hidroponik Çiftlik inşa ediliyor	
+label_requirement_take_card_negative	Şehirde [amount]x [card] daha az var:	
+label_requirement_take_dollars_on_top_negative	Üstünde [amount] Paradan daha az var:	
+label_requirement_take_dollars_negative	Şehirde [amount] Paradan daha az var:	
+label_requirement_take_food_negative	[amount] yiyecek tüketilemiyor:	
+label_requirement_has_housing_negative	Barınak yok:	
+label_requirement_has_energy_negative	Enerji yok:	
+label_requirement_worker_amount_met_negative	İşçi yok:	
+label_requirement_has_pollution_negative	[amount] kirlilik var:	
+label_requirement_needs_healing_negative	Tam sağlıklı:	
+label_requirement_has_pollution_landfill_negative	[amount] kirlilikten az:	
+label_requirement_on_active_board_negative	Şehirde değil:	
+label_requirement_in_conflict	Çatışmada:	
+label_requirement_in_conflict_negative	Çatışmada değil:	
+label_at_end_moon	Ay sonunda	
+label_requirement_landmark_first_time	İlk kez şehirde Anıt var:	
+label_requirement_landmark_first_time_negative	Sonra şehirde Anıt:	
+quest_cities_city_park_text	Şehir Parkı inşa et	
+quest_cities_30_wellbeing_text	30 iyilik haline ulaş	
+quest_cities_20_wellbeing_text	20 iyilik haline ulaş	
+quest_cities_50_wellbeing_text	50 iyilik haline ulaş	
+quest_cities_disaster_text	Bir Felaket gör	
+quest_cities_get_bar_text	Biraz Cevher erit	
+quest_cities_get_uranium_text	Uranyum topla	
+label_abandon_city	Şehri terk et	
+label_abandon_city_title	Bu şehri terk et	
+label_abandon_city_text	Bu şehri terk etmek istediğine emin misin? Anakara’ya dönersin, şehri kaybedersin	
+label_skip	Atla	
+card_metal_scraps_status_2	Demir Çubuğu yap	
+card_iron_bar_scraps_description	Hurdayı Demir Çubuğa dönüştür	
+questgroup_cities_worker	İşgücü	
+quest_unlocked_all_cities_packs_text	Tüm Paketlerin Kilidini Aç	
+quest_cities_build_themepark_text	Lunapark yap	
+card_bread_2000_name	Ekmek 2000	
+card_bread_2000_description	Ekmek: Yeniden icat edildi	
+card_bread_2000_status_0	Ekmek pişirme	
+label_energy_view	Görünümü değiştir	
+card_event_industrial_revolution_name	Sanayi Devrimi	
+card_event_industrial_revolution_description	Sanayi Devrimi’ni başlatmak için bu kartın üstüne bir köylü yerleştir	
+label_go_to_cities	Sanayi Devrimi	
+label_go_to_city_title	Stacklands 2000 - Sanayi Devrimi	
+label_go_to_city_text	Sanayi Devrimi’ni başlatmak istiyor musun? Anakara’dan ayrılacaksın, ama her zaman dönebilirsin	
+label_cutscene_industrial_revolution_title	Devrimi Başlat	
+label_cutscene_industrial_revolution_text	Yiyecek kaynağın çok stabil - bu köylülerini ileri teknolojiye odaklanmaya bırakıyor...	
+label_cutscene_industrial_revolution_text_1	Sanayi Devrimi’ni keşfettin!	
+control_toggle_energy_view	Görünümü değiştir	
+card_slums_name	Gecekondular	
+card_slums_description	Bir yerde çok fazla baraka olunca	
+card_slums_status_0	Gecekondulara dönüşüyor	
+card_copper_deposit_name	Bakır Deposu	
+card_copper_deposit_description	Bakır cevheri içerir	
+card_copper_deposit_status	Bakır cevheri toplama	
+card_iron_deposit_cities_name	Demir Deposu	
+card_iron_deposit_cities_description	Demir cevheri içerir	
+card_iron_deposit_cities_status	Demir cevheri toplama	
+card_solar_panel_name	Güneş Paneli	
+card_solar_panel_description	Güneşten sınırsız bedava enerji	
+card_solar_panel_status_0	Enerji üretiyor	
+card_spy_name	Casus	
+card_spy_description	Goblin gibi görünüyor!	
+label_landmark_fullname	Anıt: [isim]	
+card_drought_name	Kuraklık	
+card_drought_description	Kurudu!	
+label_drought_start	Radarda yağmur yok	
+label_cities_drought_title	Kuraklık	
+label_cities_drought_text	Şehri kuraklık vurdu	
+label_cities_drought_text_1	Tarım Arazileri sulanana kadar çalışmaz	
+statuseffect_drought_description	Tarım Arazisi çöle döndü	
+statuseffect_drought_lore	Burada bir spagetti western çekilebilir	
+statuseffect_drought_name	Kuraklık	
+card_artwork_name	Sanat Eseri	
+card_artwork_description	Geleceğin Van Gogh’u mu?	
+card_recycling_center_description_long	Şehirden kirliliği kaldırır. Şu anda [current] kirlilik var	
+card_overflowing_recycling_center_name	Taşan Geri Dönüşüm Merkezi	
+card_overflowing_recycling_center_description	Hâlâ epey iğrenç	
+blueprint_citiesironbar_name	Demir Çubuğu	
+quest_cities_storage_text	Depolama Kabı yap	
+blueprint_copper_bar_status	Bakır Çubuğu yapmak	
+card_merch_name	Ürün	
+card_merch_description	Hayranlar çıldırıyor!	
+label_view_default	Varsayılan	
+label_view_energy	Enerji	
+label_view_sewage	Kanalizasyon	
+label_view_transport	Taşıma	
+label_view_calamity	Felaket	
+label_connection_sewer	Kanalizasyon	
+label_connection_transport	Taşıma	
+card_septic_tank_name	Foseptik Tankı	
+card_septic_tank_description	Dışkı depolama	
+card_septic_tank_status_0	Foseptik Tankı inşa ediliyor	
+label_requirement_has_sewer_connected	Kanalizasyona bağlı:	
+label_requirement_has_sewer_connected_negative	Kanalizasyona bağlı değil:	
+statuseffect_no_sewer_description	Kanalizasyona bağlı değilken Dışkı üretme ihtimali var	
+statuseffect_no_sewer_lore	Bağlantısız bırakmak cesaret ister	
+statuseffect_no_sewer_name	Kanalizasyon gerek	
+card_water_treatment_plant_name	Su Arıtma Tesisi	
+card_water_treatment_plant_description	Kanalizasyonu suya çevirir	
+card_water_treatment_plant_status_0	Su Arıtma Tesisi inşa ediliyor	
+card_water_treatment_plant_status_1	Kanalizasyonu filtreleme	
+card_food_warehouse_status_2	Yiyecek depolama	
+quest_cities_build_villager_statue_text	Köylü Heykeli yap	
+cardtype_landmarks	Anıtlar	
+card_road_builder_name	Yol İnşaatçısı	
+card_road_builder_description	Yol inşaatçıları loncası, kartlar arası yol inşa etmeye yarar	
+card_road_builder_status_0	Yol İnşaatçısı inşa ediliyor	
+card_fancy_apartment_status_0	Lüks Apartman inşa ediliyor	
+quest_cities_time_machine_text	Bilinmeyen Makine inşa et	
+quest_cities_transport_text	Taşıma Yolu bağla	
+quest_cities_transport_5_text	5 bağlı Taşıma Yolu olsun	
+card_time_machine_status_2	Bilinmeyen Makineyi şarj et	
+card_alien_name	Uzaylı	
+card_alien_description	Uzaydan gelen işçi	
+card_alien_status_0	Uzaylı yapma	
+cutscene_cities_villager_timemachine_title	Vaay!	
+cutscene_cities_villager_timemachine_text_0	Burası da ne!	
+cutscene_cities_villager_timemachine_text_1	Aklım bunu kavrayamıyor! Aaaah!	
+card_rumor_genius_description	Bir şehirde iyilik hali 50 iken Eğitimli İşçiyi eğitmek bir Dahi üretir	
+card_robot_worker_description	Metalden yapılan bir İşçi - Yiyeceğe ihtiyacı yok!	
+card_academy_description	İşçilerini eğitmek için kullanılır	
+card_stadium_description	Çok ay süren spor etkinliklerine ev sahipliği yapar	
+card_fossil_name	Fosil	
+card_fossil_description	Kemikli karmaşa	
+card_city_hall_description_long	Her 10 Para için Kart Limiti 2 artırır. İşçileri yeniden adlandırmak için de kullanılabilir.	
+card_city_hall_description	Her 10 Para için Kart Limiti 2 artırır. İşçileri yeniden adlandırmak için de kullanılabilir.	
+card_dino_name	T-Rex	
+card_dino_description	Büyük kötü dino	
+card_dino_status_0	Fosili tamir et	
+label_cities_time_ending_title	Bir monolog	
+label_cities_time_ending_text	Son icadım için zaman geldi...	
+label_cities_time_ending_text_1	Tüm bu teknolojiyi inşa etmiş olmamıza rağmen...	
+label_cities_time_ending_text_2	Büyük bir karmaşa yaptık ve artık bıktım...	
+label_cities_time_ending_text_3	Yine sadece çalı yemek istiyorum!	
+label_cities_time_ending_text_4	Buradan çıkmak istiyorum!	
+label_cities_time_ending_text_5	Görüşürüz!	
+card_robot_soldier_name	Robot Asker	
+card_robot_soldier_description	Roger roger	
+card_robot_soldier_status_0	Robot Asker eğitiliyor	
+card_robot_genius_name	Robot Dahi	
+card_robot_genius_description	Yapay zeka	
+quest_cities_robot_society_text	10 Robot İşçin, hiç normal İşçin olmasın	
+quest_cities_green_energy_text	Yeşil enerjiye 10 enerji kablosu bağla	
+label_view_transport_default	Yol	
+questgroup_cities_misc	Şehir Görevleri	
+questgroup_cities_wellbeing	Yaşam Kalitesi	
+card_cities_cat_name	Kedi 2000	
+card_cities_cat_description	Kedi uygarlığı?	
+card_cities_dog_name	Köpek 2000	
+card_cities_dog_description	*hav hav*	
+label_requirement_energy_workers	Enerji ve İşçi var:	
+label_requirement_energy_workers_negative	Enerji ve İşçi yok:	
+cutscene_cities_particle_collider_title	Parçacık Çarpıştırıcı	
+cutscene_cities_particle_collider_text	Üzerinde büyük bir kırmızı “Başlat” tuşu var	
+cutscene_cities_particle_collider_switch	Düğmeye bas	
+cutscene_cities_particle_collider_text_1	Çarpıştırıcı dengesiz bir parçacık üretti!	
+label_energy_view_infobox_old	Mevcut görünümü seç	
+quest_cities_pets_text	3 Evcil Hayvanın olsun	
+quest_cities_trex_text	T-Rex’i yen	
+quest_cities_aliens_text	3 Uzaylın olsun	
+label_dino_laboratory	Tehlikeli bir deneye başlamak üzeresin. Bunu yapmak istediğine emin misin?	
+label_start_dino	Deneye başla	
+label_cancel_dino	Deneyi iptal et	
+card_filtered_junction_name	Filtre Kavşak	
+card_filtered_junction_name_long	[card] Kavşağı	
+card_filtered_junction_description	Filtreyi ayarlamak için üstüne bir kart sürükle. Filtrelenmiş kartı üst yol çıkışına, diğerlerini alt yola yönlendirir	
+card_filtered_junction_status_0	Filtreli Kavşak inşa ediliyor	
+card_filtered_crossroad_name	Filtreli Kavşaklar	
+card_filtered_crossroad_name_long	[card] Kavşaklar	
+card_filtered_crossroad_description	Üstüne bir kart sürükle, Filtre ayarlanır. Filtreli kartı üst yoldan, diğerlerini alt yoldan gönderir	
+card_filtered_crossroad_status_0	Filtreli Kavşak inşa ediliyor	
+card_crab_scale_armor_description	Pulları delinemiyor	
+control_toggle_view	Görünümü değiştir	
+label_energy_view_infobox	Mevcut görünümü seç. [action_toggle_view] ile görünümler arasında geçiş yapabilirsin	
+card_fancy_apartment_description	[amount] İşçiye ev sahipliği yapar	
+card_transmission_tower_description	Brrrrzzzz. Enerji kablolarını düzenlemek için kullanılır.	
+card_transmission_tower_name	Elektrik Direği	
+card_transmission_tower_status_0	Elektrik Direği inşa ediliyor	
+card_junction_name	Kavşak	
+card_junction_description	Üzerine bırakılan kartları otomatik olarak taşıma çıkışlarına yönlendirir. Sırayla çıkışları kullanır	
+card_junction_status_0	Kavşak inşa ediliyor	
+card_crossroad_name	Çatallar	
+card_crossroad_description	Üzerine bırakılan kartları otomatik olarak yol çıkışlarına yönlendirir. Sırayla çıkışları kullanır	
+card_crossroad_status_0	Çatallar inşa ediliyor	
+label_framerate_vsync	VSync	
+idea_resourcechest_status_2	Kart çıkışı	
+card_pack_sale_description	Paketler %25 indirimli!	
