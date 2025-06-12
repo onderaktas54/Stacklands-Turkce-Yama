@@ -12,7 +12,7 @@ Bu proje, popüler kart tabanlı hayatta kalma ve köy kurma oyunu **Stacklands*
 
 En kolay ve tavsiye edilen kurulum yöntemi, yamaya **Steam Atölyesi üzerinden abone olmaktır.** Atölye sayfası, gerekli tüm modları da otomatik olarak kuracaktır.
 
-**[➡️ Steam Atölyesi Sayfasına Gitmek İçin Tıklayın](SENİN_ATÖLYE_LİNKİN)**
+**[➡️ Steam Atölyesi Sayfasına Gitmek İçin Tıklayın]([SENİN_ATÖLYE_LİNKİN](https://steamcommunity.com/sharedfiles/filedetails/?id=3497932803))**
 
 ---
 
